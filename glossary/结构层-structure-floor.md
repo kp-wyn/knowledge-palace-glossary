@@ -2,13 +2,13 @@
 id: KP-TERM-011
 term: 结构层
 en: Structure Layer
-category: 架构
-synonyms: 分类层，建模层
-attribution: 知识宫殿原创提出
+category: 架构 / Architecture
+synonyms: 分类层 / Classification Floor，建模层 / Modeling Floor
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 结构层
@@ -23,9 +23,9 @@ The second floor, responsible for classification, modeling, and linking knowledg
 
 ## 典型场景 / Typical Scenarios
 
-- 按领域建库、区、房、卡
-- 给知识卡建双向链接
-- 封装可挂载的kp-技能
+- 按领域建库、区、房、卡 / Build library-zone-room-card by domain
+- 给知识卡建双向链接 / Add bidirectional links between cards
+- 封装可挂载的kp-技能 / Package mountable kp-skills
 
 ## 关联 / Related Terms
 

@@ -2,13 +2,13 @@
 id: KP-TERM-019
 term: 验密
 en: Verify Confidentiality
-category: 质检
-synonyms: 验密关，脱敏检查
-attribution: 知识宫殿原创提出
+category: 质检 / Quality Control
+synonyms: 验密关 / Confidentiality Gate，脱敏检查 / Redaction Check
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 验密
@@ -23,8 +23,8 @@ The fourth gate (the "one encryption"), verifying the desensitization of sensiti
 
 ## 典型场景 / Typical Scenarios
 
-- 隐去姓名、证件、联系方式
-- 隐去客户信息与商业机密
+- 隐去姓名、证件、联系方式 / Redact names, IDs, contact info
+- 隐去客户信息与商业机密 / Redact client info and trade secrets
 
 ## 关联 / Related Terms
 

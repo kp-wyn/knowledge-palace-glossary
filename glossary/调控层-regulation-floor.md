@@ -2,13 +2,13 @@
 id: KP-TERM-013
 term: 调控层
 en: Regulation Layer
-category: 架构
-synonyms: 复盘层，治理层
-attribution: 知识宫殿原创提出
+category: 架构 / Architecture
+synonyms: 复盘层 / Review Floor，治理层 / Governance Floor
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 调控层
@@ -23,9 +23,9 @@ The fourth floor, responsible for daily inspection, weekly review, monthly audit
 
 ## 典型场景 / Typical Scenarios
 
-- 日清缓冲区、周复盘技能效果
-- 月审计打标签
-- 季度重构房间、盘点价值
+- 日清缓冲区、周复盘技能效果 / Daily buffer clear, weekly skill review
+- 月审计打标签 / Monthly audit with color tags
+- 季度重构房间、盘点价值 / Quarterly room restructuring, value audit
 
 ## 关联 / Related Terms
 

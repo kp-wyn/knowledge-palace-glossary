@@ -2,13 +2,13 @@
 id: KP-TERM-040
 term: 技能家族
 en: Skill Family
-category: 技能
-synonyms: 技能系列，命名系列
-attribution: 知识宫殿原创提出
+category: 技能 / Skills
+synonyms: 技能系列 / Skill Series，命名系列 / Naming Series
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 技能家族
@@ -23,7 +23,7 @@ A group of skills sharing the same usage paradigm, consistent naming style, and 
 
 ## 典型场景 / Typical Scenarios
 
-- 「X一下」家族：记一下、收拾一下、消化一下、理一下
+- 「X一下」家族：记一下、收拾一下、消化一下、理一下 / "X-me" family: note-it, tidy-it, digest-it, sort-it
 
 ## 关联 / Related Terms
 

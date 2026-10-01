@@ -2,13 +2,13 @@
 id: KP-TERM-035
 term: 知识围墙
 en: Knowledge Wall
-category: 架构
-synonyms: 宫殿边界，准入墙
-attribution: 知识宫殿原创提出
+category: 架构 / Architecture
+synonyms: 宫殿边界 / Palace Boundary，准入墙 / Admission Wall
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 知识围墙
@@ -23,8 +23,8 @@ The boundary definition of each Knowledge Palace — what knowledge belongs insi
 
 ## 典型场景 / Typical Scenarios
 
-- 划定个人、企业、裙房各自边界
-- 决定什么能进、什么不进
+- 划定个人、企业、裙房各自边界 / Define boundaries for personal, enterprise, and annex
+- 决定什么能进、什么不进 / Decide what enters and what doesn't
 
 ## 关联 / Related Terms
 

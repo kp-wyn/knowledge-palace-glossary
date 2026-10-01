@@ -2,13 +2,13 @@
 id: KP-TERM-014
 term: 人机协同层
 en: Human-AI Collaboration Layer (+1)
-category: 架构
-synonyms: +1层，人机协同
-attribution: 知识宫殿原创提出
+category: 架构 / Architecture
+synonyms: +1层 / +1 Layer，人机协同 / Human-AI Collaboration
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 人机协同层
@@ -23,8 +23,8 @@ A cross-cutting mechanism running through all floors — the AI construction tea
 
 ## 典型场景 / Typical Scenarios
 
-- AI采集、拆解、制图、出初稿
-- 人定方向、做判断、质量终审
+- AI采集、拆解、制图、出初稿 / AI collects, decomposes, diagrams, drafts
+- 人定方向、做判断、质量终审 / Human sets direction, makes judgments, final quality review
 
 ## 关联 / Related Terms
 

@@ -2,13 +2,13 @@
 id: KP-TERM-065
 term: 我的知识宫殿看板
 en: My Palace Dashboard
-category: 架构
-synonyms: 个人看板，总入口
-attribution: 知识宫殿原创提出
+category: 架构 / Architecture
+synonyms: 个人看板 / Personal Dashboard，总入口 / Main Entry
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 我的知识宫殿看板
@@ -23,8 +23,8 @@ The main entry point of visual expression, showing knowledge cards, skills, task
 
 ## 典型场景 / Typical Scenarios
 
-- 打开看板查看库存与卡片动态
-- 查看待办、进度与健康度
+- 打开看板查看库存与卡片动态 / Open dashboard to see inventory and card activity
+- 查看待办、进度与健康度 / View todos, progress, and health
 
 ## 关联 / Related Terms
 

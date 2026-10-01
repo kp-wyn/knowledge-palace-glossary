@@ -2,13 +2,13 @@
 id: KP-TERM-076
 term: AI时代判断力
 en: Judgment in the AI Era
-category: 价值
-synonyms: 判断力，真伪判断
-attribution: 知识宫殿原创提出
+category: 价值 / Value
+synonyms: 判断力 / Judgment，真伪判断 / Truth Assessment
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # AI时代判断力
@@ -23,8 +23,8 @@ In an era where AI gives answers quickly, the scarcest human capability: judging
 
 ## 典型场景 / Typical Scenarios
 
-- 判断AI产出对不对
-- 判断方案选哪个、什么值得做
+- 判断AI产出对不对 / Assess whether AI output is correct
+- 判断方案选哪个、什么值得做 / Choose between options, decide what's worth doing
 
 ## 关联 / Related Terms
 

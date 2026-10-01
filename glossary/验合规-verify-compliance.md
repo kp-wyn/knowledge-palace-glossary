@@ -2,13 +2,13 @@
 id: KP-TERM-021
 term: 验合规
 en: Verify Compliance
-category: 质检
-synonyms: 整体合规审查
-attribution: 知识宫殿原创提出
+category: 质检 / Quality Control
+synonyms: 整体合规审查 / Overall Compliance Review
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 验合规
@@ -23,8 +23,8 @@ Overall compliance review covering legal, advertising, industry, and platform ru
 
 ## 典型场景 / Typical Scenarios
 
-- 发布前整体合规审查
-- 持证岗位专业合规审查
+- 发布前整体合规审查 / Overall compliance review before publishing
+- 持证岗位专业合规审查 / Licensed-role professional compliance review
 
 ## 关联 / Related Terms
 

@@ -2,13 +2,13 @@
 id: KP-TERM-042
 term: 走廊
 en: Corridor
-category: 架构
-synonyms: 同层连接，横向通道
-attribution: 知识宫殿原创提出
+category: 架构 / Architecture
+synonyms: 同层连接 / Same-Floor Link，横向通道 / Horizontal Passage
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 走廊
@@ -23,7 +23,7 @@ Horizontal connection channels between same-floor, same-type knowledge. Related 
 
 ## 典型场景 / Typical Scenarios
 
-- 同一主题下多张知识卡互相连接
+- 同一主题下多张知识卡互相连接 / Multiple cards on the same theme connect to each other
 
 ## 关联 / Related Terms
 

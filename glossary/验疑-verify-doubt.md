@@ -2,13 +2,13 @@
 id: KP-TERM-018
 term: 验疑
 en: Verify Doubt
-category: 质检
-synonyms: 验疑关，存疑隔离
-attribution: 知识宫殿原创提出
+category: 质检 / Quality Control
+synonyms: 验疑关 / Doubt Gate，存疑隔离 / Pending Isolation
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 验疑
@@ -23,8 +23,8 @@ The third gate, isolating uncertain or unverified content for observation. No do
 
 ## 典型场景 / Typical Scenarios
 
-- AI生成待确认内容
-- 候选想法、有争议结论
+- AI生成待确认内容 / AI-generated content pending confirmation
+- 候选想法、有争议结论 / Candidate ideas, disputed conclusions
 
 ## 关联 / Related Terms
 

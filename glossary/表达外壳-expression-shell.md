@@ -2,13 +2,13 @@
 id: KP-TERM-047
 term: 表达外壳
 en: Expression Shell
-category: 架构
-synonyms: GUI层，界面外壳
-attribution: 知识宫殿原创提出
+category: 架构 / Architecture
+synonyms: GUI层 / GUI Layer，界面外壳 / Interface Shell
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 表达外壳
@@ -23,7 +23,7 @@ The collective term for the graphical interface layer outside the core. Separate
 
 ## 典型场景 / Typical Scenarios
 
-- GUI、看板、大屏等一切图形化界面
+- GUI、看板、大屏等一切图形化界面 / GUI, dashboards, big screens, all visual interfaces
 
 ## 关联 / Related Terms
 

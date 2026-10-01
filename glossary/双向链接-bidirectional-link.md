@@ -2,13 +2,13 @@
 id: KP-TERM-057
 term: 双向链接
 en: Bidirectional Link
-category: 架构
-synonyms: 双链，互链
-attribution: 知识宫殿原创提出
+category: 架构 / Architecture
+synonyms: 双链 / Bidirectional Link，互链 / Mutual Link
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 双向链接
@@ -23,8 +23,8 @@ Links between cards that allow mutual click-through — the palace's translation
 
 ## 典型场景 / Typical Scenarios
 
-- 知识卡之间互设链接
-- 知识卡与经验卡之间互链
+- 知识卡之间互设链接 / Cards link to each other bidirectionally
+- 知识卡与经验卡之间互链 / Knowledge cards and experience cards link to each other
 
 ## 关联 / Related Terms
 

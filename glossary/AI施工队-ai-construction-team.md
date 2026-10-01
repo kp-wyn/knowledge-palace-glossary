@@ -2,13 +2,13 @@
 id: KP-TERM-027
 term: AI施工队
 en: AI Construction Team
-category: AI协同
-synonyms: AI执行团队，AI施工
-attribution: 知识宫殿原创提出
+category: AI协同 / AI Collaboration
+synonyms: AI执行团队 / AI Execution Team，AI施工 / AI Construction Crew
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # AI施工队
@@ -23,8 +23,8 @@ A collection of AI roles that execute work — collector, disassembler, chart-ma
 
 ## 典型场景 / Typical Scenarios
 
-- 采集、拆解、制图、压缩
-- 初稿、格式转换、数据计算
+- 采集、拆解、制图、压缩 / Collect, decompose, diagram, compress
+- 初稿、格式转换、数据计算 / Drafts, format conversion, data computation
 
 ## 关联 / Related Terms
 

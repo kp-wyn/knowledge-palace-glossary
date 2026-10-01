@@ -2,13 +2,13 @@
 id: KP-TERM-016
 term: 验真
 en: Verify Truth
-category: 质检
-synonyms: 验真关，真实性检查
-attribution: 知识宫殿原创提出
+category: 质检 / Quality Control
+synonyms: 验真关 / Truth Gate，真实性检查 / Truth Verification
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 验真
@@ -23,8 +23,8 @@ The first gate of Three Verifications and One Encryption, verifying the truthful
 
 ## 典型场景 / Typical Scenarios
 
-- 核对一条知识的出处、时间、是否仍有效
-- 对权威来源做评级
+- 核对一条知识的出处、时间、是否仍有效 / Verify source, date, and current validity of a knowledge item
+- 对权威来源做评级 / Rate authoritative sources
 
 ## 关联 / Related Terms
 

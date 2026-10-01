@@ -2,13 +2,13 @@
 id: KP-TERM-030
 term: AI外部存储
 en: AI External Storage
-category: AI协同
-synonyms: 外挂存储，外部索引
-attribution: 知识宫殿原创提出
+category: AI协同 / AI Collaboration
+synonyms: 外挂存储 / External Storage，外部索引 / External Index
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # AI外部存储
@@ -23,8 +23,8 @@ Storing large raw materials outside the palace (external drive or cloud), keepin
 
 ## 典型场景 / Typical Scenarios
 
-- 大文件、原始素材放外挂盘或云端
-- 库内只留链接与索引
+- 大文件、原始素材放外挂盘或云端 / Large files and raw materials on external drive or cloud
+- 库内只留链接与索引 / Only links and indexes stay in the palace
 
 ## 关联 / Related Terms
 

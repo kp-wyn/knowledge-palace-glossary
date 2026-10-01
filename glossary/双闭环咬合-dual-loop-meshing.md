@@ -2,13 +2,13 @@
 id: KP-TERM-056
 term: 双闭环咬合
 en: Dual-Loop Meshing
-category: 价值
-synonyms: 双闭环，知识技能互驱
-attribution: 知识宫殿原创提出
+category: 价值 / Value
+synonyms: 双闭环 / Dual Loop，知识技能互驱 / Knowledge-Skill Mutual Drive
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 双闭环咬合
@@ -23,7 +23,7 @@ The scenario loop (knowledge→skill→scenario→feedback→knowledge) and skil
 
 ## 典型场景 / Typical Scenarios
 
-- 场景中产生的反馈同时更新知识与技能
+- 场景中产生的反馈同时更新知识与技能 / Feedback from scenarios updates both knowledge and skills
 
 ## 关联 / Related Terms
 

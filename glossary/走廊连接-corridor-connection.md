@@ -2,13 +2,13 @@
 id: KP-TERM-043
 term: 走廊连接
 en: Corridor Connection
-category: 架构
-synonyms: 跨层通道，知识流动路径
-attribution: 知识宫殿原创提出
+category: 架构 / Architecture
+synonyms: 跨层通道 / Cross-Floor Passage，知识流动路径 / Knowledge Flow Path
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 走廊连接
@@ -23,8 +23,8 @@ Knowledge flow channels between floors and rooms, defining the processing path. 
 
 ## 典型场景 / Typical Scenarios
 
-- 素材从采集箱沿走廊进入分类库区
-- 再由库区流向加工车间
+- 素材从采集箱沿走廊进入分类库区 / Raw materials flow from intake box along corridors into classified zones
+- 再由库区流向加工车间 / Then flow from zones to processing workshops
 
 ## 关联 / Related Terms
 

@@ -2,13 +2,13 @@
 id: KP-TERM-031
 term: 人类验收
 en: Human Verification
-category: AI协同
-synonyms: 人工终审，人工确认
-attribution: 知识宫殿原创提出
+category: AI协同 / AI Collaboration
+synonyms: 人工终审 / Human Final Review，人工确认 / Human Confirmation
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 人类验收
@@ -23,8 +23,8 @@ All AI output must pass human quality review at critical checkpoints — the con
 
 ## 典型场景 / Typical Scenarios
 
-- 方案、稿件发布前人工终审
-- 对外交付前人工确认
+- 方案、稿件发布前人工终审 / Human final review before publishing proposals and drafts
+- 对外交付前人工确认 / Human confirmation before external delivery
 
 ## 关联 / Related Terms
 

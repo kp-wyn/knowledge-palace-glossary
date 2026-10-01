@@ -2,13 +2,13 @@
 id: KP-TERM-028
 term: AI陪练
 en: AI Training Partner
-category: AI协同
-synonyms: AI反方，AI对手
-attribution: 知识宫殿原创提出
+category: AI协同 / AI Collaboration
+synonyms: AI反方 / AI Devil's Advocate，AI对手 / AI Sparring Partner
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # AI陪练
@@ -23,8 +23,8 @@ An AI role that plays devil's advocate, simulates Q&A, assists analysis, and pro
 
 ## 典型场景 / Typical Scenarios
 
-- 模拟客户提问
-- 当反方质疑方案、面试演练
+- 模拟客户提问 / Simulate client questions
+- 当反方质疑方案、面试演练 / Devil's advocate on proposals, interview practice
 
 ## 关联 / Related Terms
 

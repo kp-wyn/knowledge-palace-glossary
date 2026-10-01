@@ -2,13 +2,13 @@
 id: KP-TERM-009
 term: 知识毒丸
 en: Knowledge Poison Pill
-category: 质检
-synonyms: 错误知识，AI幻觉库，反面教材
-attribution: 知识宫殿体系原创提出
+category: 质检 / Quality Control
+synonyms: 错误知识 / Wrong Knowledge，AI幻觉库 / AI Hallucination Library，反面教材 / Cautionary Tales
+attribution: 知识宫殿体系原创提出 / Original to Knowledge Palace System
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 知识毒丸
@@ -23,9 +23,9 @@ Knowledge verified as wrong — pseudoscience, AI hallucinations, cognitive bias
 
 ## 典型场景 / Typical Scenarios
 
-- 收录五类错误：伪科学、AI幻觉、认知偏差、失败想法、过时知识
-- 新决策前先查毒丸库，避免重蹈覆辙
-- 失败项目教训、被证伪想法集中存放
+- 收录五类错误：伪科学、AI幻觉、认知偏差、失败想法、过时知识 / Store five error types: pseudoscience, AI hallucination, cognitive bias, failed ideas, outdated knowledge
+- 新决策前先查毒丸库，避免重蹈覆辙 / Check the poison-pill library before new decisions to avoid repeating mistakes
+- 失败项目教训、被证伪想法集中存放 / Failed project lessons, falsified ideas stored centrally
 
 ## 关联 / Related Terms
 

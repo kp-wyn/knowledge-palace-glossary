@@ -2,13 +2,13 @@
 id: KP-TERM-069
 term: 知识治理
 en: Knowledge Governance
-category: 管理
-synonyms: 知识管理，全生命周期治理
-attribution: 知识宫殿原创提出
+category: 管理 / Management
+synonyms: 知识管理 / Knowledge Management，全生命周期治理 / Full Lifecycle Governance
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 知识治理
@@ -23,8 +23,8 @@ Systematic management of the knowledge lifecycle: quality grading, permission is
 
 ## 典型场景 / Typical Scenarios
 
-- 质量分级、权限隔离
-- 过期淘汰、合规审查
+- 质量分级、权限隔离 / Quality grading, permission isolation
+- 过期淘汰、合规审查 / Outdated retirement, compliance review
 
 ## 关联 / Related Terms
 

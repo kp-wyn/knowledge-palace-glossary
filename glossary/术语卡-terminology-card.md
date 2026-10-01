@@ -2,13 +2,13 @@
 id: KP-TERM-026
 term: 术语卡
 en: Terminology Card
-category: 知识单元
-synonyms: KP-TERM，概念定义卡
-attribution: 知识宫殿原创提出
+category: 知识单元 / Knowledge Units
+synonyms: KP-TERM，概念定义卡 / Concept Definition Card
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 术语卡

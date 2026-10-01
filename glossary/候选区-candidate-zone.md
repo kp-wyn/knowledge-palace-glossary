@@ -2,13 +2,13 @@
 id: KP-TERM-046
 term: 候选区
 en: Candidate Zone
-category: 知识单元
-synonyms: 临时区，待加工区
-attribution: 知识宫殿原创提出
+category: 知识单元 / Knowledge Units
+synonyms: 临时区 / Temp Zone，待加工区 / To-Process Zone
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 候选区
@@ -23,8 +23,8 @@ A temporary holding area for new ideas and unverified content, which only enters
 
 ## 典型场景 / Typical Scenarios
 
-- 临时灵感、半成品设想先入区
-- 待核实信息先入区
+- 临时灵感、半成品设想先入区 / Fleeting ideas, half-baked concepts go here first
+- 待核实信息先入区 / Unverified information goes here first
 
 ## 关联 / Related Terms
 

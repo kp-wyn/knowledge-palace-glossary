@@ -2,13 +2,13 @@
 id: KP-TERM-029
 term: AI人机协同
 en: AI-Human Collaboration
-category: AI协同
-synonyms: 人机协作，人机分工
-attribution: 知识宫殿原创提出
+category: AI协同 / AI Collaboration
+synonyms: 人机协作 / Human-AI Cooperation，人机分工 / Human-AI Division
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # AI人机协同
@@ -23,8 +23,8 @@ A collaboration mechanism running through the Knowledge Palace: AI executes and 
 
 ## 典型场景 / Typical Scenarios
 
-- AI出初稿、人做决策
-- AI执行、人验收
+- AI出初稿、人做决策 / AI drafts, human decides
+- AI执行、人验收 / AI executes, human verifies
 
 ## 关联 / Related Terms
 

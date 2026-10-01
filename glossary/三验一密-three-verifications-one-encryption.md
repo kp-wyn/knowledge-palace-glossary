@@ -2,13 +2,13 @@
 id: KP-TERM-015
 term: 三验一密
 en: Three Verifications and One Encryption
-category: 质检
-synonyms: 四道关，入库质检
-attribution: 知识宫殿原创提出
+category: 质检 / Quality Control
+synonyms: 四道关 / Four Gates，入库质检 / Intake Quality Check
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 三验一密
@@ -23,9 +23,9 @@ The underlying quality-check mechanism of the Knowledge Palace — any knowledge
 
 ## 典型场景 / Typical Scenarios
 
-- 知识入库前的质量检验
-- 内容对外发布前的合规检查
-- 定位一次产出到底哪一关没过
+- 知识入库前的质量检验 / Quality check before knowledge enters the palace
+- 内容对外发布前的合规检查 / Compliance check before publishing content
+- 定位一次产出到底哪一关没过 / Identify which gate failed in a delivery
 
 ## 关联 / Related Terms
 

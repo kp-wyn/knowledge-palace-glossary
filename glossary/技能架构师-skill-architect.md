@@ -2,13 +2,13 @@
 id: KP-TERM-008
 term: 技能架构师
 en: Skill Architect
-category: 角色
-synonyms: AI技能架构师，知识宫殿架构师
-attribution: 知识宫殿体系原创提出
+category: 角色 / Role
+synonyms: AI技能架构师 / AI Skill Architect，知识宫殿架构师 / Knowledge Palace Architect
+attribution: 知识宫殿体系原创提出 / Original to Knowledge Palace System
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 技能架构师
@@ -23,9 +23,9 @@ In the AI era, a role that transforms real business and knowledge-scenario probl
 
 ## 典型场景 / Typical Scenarios
 
-- 进现场、拆问题、设计技能
-- 编流水线、沉淀资产
-- 让技能可复用、可迭代、可传承
+- 进现场、拆问题、设计技能 / Go on-site, decompose problems, design skills
+- 编流水线、沉淀资产 / Build pipelines, accumulate assets
+- 让技能可复用、可迭代、可传承 / Make skills reusable, iterable, transferable
 
 ## 关联 / Related Terms
 

@@ -2,13 +2,13 @@
 id: KP-TERM-032
 term: 知识元
 en: Knowledge Atom
-category: 知识单元
-synonyms: 最小知识单位，知识颗粒
-attribution: 知识宫殿原创提出
+category: 知识单元 / Knowledge Units
+synonyms: 最小知识单位 / Minimal Knowledge Unit，知识颗粒 / Knowledge Granule
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 知识元
@@ -23,7 +23,7 @@ The smallest, indivisible unit of knowledge — the basic particle that makes up
 
 ## 典型场景 / Typical Scenarios
 
-- 把一个概念拆到不可再分的单点
+- 把一个概念拆到不可再分的单点 / Decompose a concept to the indivisible single point
 
 ## 关联 / Related Terms
 

@@ -2,13 +2,13 @@
 id: KP-TERM-052
 term: 价值飞轮
 en: Value Flywheel
-category: 价值
-synonyms: 增长飞轮，自增强循环
-attribution: 知识宫殿原创提出
+category: 价值 / Value
+synonyms: 增长飞轮 / Growth Flywheel，自增强循环 / Self-Reinforcing Loop
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 价值飞轮
@@ -23,8 +23,8 @@ The positive loop: knowledge accumulation → skill encapsulation → scenario a
 
 ## 典型场景 / Typical Scenarios
 
-- 每完成一个项目就沉淀知识与技能
-- 沉淀反哺下一个项目
+- 每完成一个项目就沉淀知识与技能 / Every project completed deposits knowledge and skills
+- 沉淀反哺下一个项目 / Deposits feed back into the next project
 
 ## 关联 / Related Terms
 

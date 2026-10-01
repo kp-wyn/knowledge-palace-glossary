@@ -2,13 +2,13 @@
 id: KP-TERM-059
 term: 责任锚定
 en: Responsibility Anchoring
-category: AI协同
-synonyms: 责任人，署名责任
-attribution: 知识宫殿原创提出
+category: AI协同 / AI Collaboration
+synonyms: 责任人 / Responsible Party，署名责任 / Accountability
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 责任锚定
@@ -23,7 +23,7 @@ Explicitly assigning a responsible person to every output. AI doesn't bear respo
 
 ## 典型场景 / Typical Scenarios
 
-- 每件对外产出指定负责人、署名
+- 每件对外产出指定负责人、署名 / Assign a responsible person and byline for every external output
 
 ## 关联 / Related Terms
 

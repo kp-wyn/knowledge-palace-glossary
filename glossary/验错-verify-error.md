@@ -2,13 +2,13 @@
 id: KP-TERM-017
 term: 验错
 en: Verify Error
-category: 质检
-synonyms: 验错关，错误识别
-attribution: 知识宫殿原创提出
+category: 质检 / Quality Control
+synonyms: 验错关 / Error Gate，错误识别 / Error Detection
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 验错
@@ -23,8 +23,8 @@ The second gate, identifying errors, outdated knowledge, AI hallucinations, and 
 
 ## 典型场景 / Typical Scenarios
 
-- 识别伪科学、AI幻觉
-- 识别认知误区、失败想法
+- 识别伪科学、AI幻觉 / Identify pseudoscience, AI hallucinations
+- 识别认知误区、失败想法 / Identify cognitive biases, failed ideas
 
 ## 关联 / Related Terms
 

@@ -2,13 +2,13 @@
 id: KP-TERM-038
 term: 挂载技能
 en: Mounted Skill
-category: 技能
-synonyms: kp-技能，可调用技能
-attribution: 知识宫殿原创提出
+category: 技能 / Skills
+synonyms: kp-技能 / kp-Skill，可调用技能 / Callable Skill
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 挂载技能
@@ -23,8 +23,8 @@ A skill that encapsulates mature methodology and can be mounted into the Knowled
 
 ## 典型场景 / Typical Scenarios
 
-- 把成熟方法封装为SKILL.md
-- 按触发词调用技能
+- 把成熟方法封装为SKILL.md / Package mature methods into SKILL.md
+- 按触发词调用技能 / Invoke skills by trigger words
 
 ## 关联 / Related Terms
 

@@ -2,13 +2,13 @@
 id: KP-TERM-037
 term: 流水线技能
 en: Pipeline Skill
-category: 技能
-synonyms: 端到端流水线，SOP流水线
-attribution: 知识宫殿原创提出
+category: 技能 / Skills
+synonyms: 端到端流水线 / End-to-End Pipeline，SOP流水线 / SOP Pipeline
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 流水线技能
@@ -23,8 +23,8 @@ A skill combination that chains multiple skills in a fixed sequence to form an e
 
 ## 典型场景 / Typical Scenarios
 
-- 行前风险预警流水线
-- 建殿流水线、组卷流水线
+- 行前风险预警流水线 / Pre-trip risk alert pipeline
+- 建殿流水线、组卷流水线 / Palace-building pipeline, exam-setting pipeline
 
 ## 关联 / Related Terms
 

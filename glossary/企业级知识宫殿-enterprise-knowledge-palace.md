@@ -2,13 +2,13 @@
 id: KP-TERM-050
 term: 企业级知识宫殿
 en: Enterprise Knowledge Palace
-category: 宫殿类型
-synonyms: 企业KP，组织知识库
-attribution: 知识宫殿原创提出
+category: 宫殿类型 / Palace Types
+synonyms: 企业KP / Enterprise KP，组织知识库 / Organizational Knowledge Base
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 企业级知识宫殿
@@ -23,8 +23,8 @@ A Knowledge Palace serving organizational decisions, external output, and knowle
 
 ## 典型场景 / Typical Scenarios
 
-- 组织知识库、对外输出合规
-- 多岗位、多殿协同
+- 组织知识库、对外输出合规 / Organizational KB, external output compliance
+- 多岗位、多殿协同 / Multi-role, multi-palace coordination
 
 ## 关联 / Related Terms
 

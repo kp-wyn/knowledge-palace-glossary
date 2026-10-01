@@ -2,13 +2,13 @@
 id: KP-TERM-060
 term: 质检闸
 en: Quality Gate
-category: 质检
-synonyms: 强制关口，输出闸门
-attribution: 知识宫殿原创提出
+category: 质检 / Quality Control
+synonyms: 强制关口 / Mandatory Gate，输出闸门 / Output Gate
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 质检闸
@@ -23,8 +23,8 @@ The mandatory checkpoint every output must pass before external release, where T
 
 ## 典型场景 / Typical Scenarios
 
-- 知识入库前过闸
-- 作品发布、对外交付前过闸
+- 知识入库前过闸 / Pass through the gate before knowledge enters
+- 作品发布、对外交付前过闸 / Pass through the gate before publishing or external delivery
 
 ## 关联 / Related Terms
 

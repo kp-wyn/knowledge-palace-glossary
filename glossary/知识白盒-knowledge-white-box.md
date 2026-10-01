@@ -2,13 +2,13 @@
 id: KP-TERM-003
 term: 知识白盒
 en: Knowledge White Box
-category: AI协同
-synonyms: 可追溯AI，有知识库无个人风格
-attribution: 知识宫殿原创提出（借喻自软件工程白盒测试）
+category: AI协同 / AI Collaboration
+synonyms: 可追溯AI / Traceable AI，有知识库无个人风格 / Has KB but No Personal Voice
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace (analogy from software engineering white-box testing)
 created: 2026-09-28
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 知识白盒
@@ -23,9 +23,9 @@ A state where the AI's internal reasoning, knowledge sources, and SOP steps are 
 
 ## 典型场景 / Typical Scenarios
 
-- 有知识库了，AI写的东西能溯源到你喂的案例
-- 输出物专业、完整、没有错误
-- 但客户说："挺好的，但不是我要的那个感觉"
+- 有知识库了，AI写的东西能溯源到你喂的案例 / With a KB, AI output traces back to your fed cases
+- 输出物专业、完整、没有错误 / Output is professional, complete, error-free
+- 但客户说："挺好的，但不是我要的那个感觉" / But the client says: "Good, but not quite my style"
 
 ## 关联 / Related Terms
 

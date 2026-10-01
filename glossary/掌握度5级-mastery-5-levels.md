@@ -2,13 +2,13 @@
 id: KP-TERM-064
 term: 掌握度5级
 en: Mastery 5 Levels
-category: 知识单元
-synonyms: L0-L4，账本标尺
-attribution: 知识宫殿原创提出
+category: 知识单元 / Knowledge Units
+synonyms: L0-L4，账本标尺 / Ledger Scale
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 掌握度5级
@@ -23,8 +23,8 @@ The five-level self-assessment scale in the Knowledge Asset Ledger: L0 not learn
 
 ## 典型场景 / Typical Scenarios
 
-- 账本里给每项资产评L0-L4
-- 按等级安排转化
+- 账本里给每项资产评L0-L4 / Rate each ledger asset L0-L4
+- 按等级安排转化 / Plan conversion by level
 
 ## 关联 / Related Terms
 

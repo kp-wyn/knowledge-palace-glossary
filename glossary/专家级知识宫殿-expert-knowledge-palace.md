@@ -2,13 +2,13 @@
 id: KP-TERM-051
 term: 专家级知识宫殿
 en: Expert Knowledge Palace
-category: 宫殿类型
-synonyms: 专业岗位KP，高可信输出
-attribution: 知识宫殿原创提出
+category: 宫殿类型 / Palace Types
+synonyms: 专业岗位KP / Professional KP，高可信输出 / High-Trust Output
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 专家级知识宫殿
@@ -23,8 +23,8 @@ A Knowledge Palace for professional roles (teachers, doctors, lawyers, tax advis
 
 ## 典型场景 / Typical Scenarios
 
-- 教师、医生、律师、税务师
-- 专业知识与合规管理
+- 教师、医生、律师、税务师 / Teachers, doctors, lawyers, tax advisors
+- 专业知识与合规管理 / Professional knowledge and compliance management
 
 ## 关联 / Related Terms
 

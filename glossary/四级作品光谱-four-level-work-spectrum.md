@@ -2,13 +2,13 @@
 id: KP-TERM-055
 term: 四级作品光谱
 en: Four-Level Work Spectrum
-category: AI协同
-synonyms: 作品归属标尺，AI参与度分级
-attribution: 知识宫殿原创提出
+category: AI协同 / AI Collaboration
+synonyms: 作品归属标尺 / Work Attribution Scale，AI参与度分级 / AI Involvement Level
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 四级作品光谱
@@ -23,8 +23,8 @@ Classifies work into four levels by AI involvement: human-written, human-led wit
 
 ## 典型场景 / Typical Scenarios
 
-- 判断作品AI参与程度
-- 确定署名方式与责任
+- 判断作品AI参与程度 / Assess AI involvement in a work
+- 确定署名方式与责任 / Determine authorship and accountability
 
 ## 关联 / Related Terms
 

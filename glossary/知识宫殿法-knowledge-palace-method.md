@@ -2,13 +2,13 @@
 id: KP-TERM-006
 term: 知识宫殿法
 en: Knowledge Palace Method
-category: 架构
-synonyms: KP法，知识宫殿方法论
-attribution: 知识宫殿体系原创提出
+category: 架构 / Architecture
+synonyms: KP法 / KP Method，知识宫殿方法论 / Knowledge Palace Methodology
+attribution: 知识宫殿体系原创提出 / Original to Knowledge Palace System
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 知识宫殿法
@@ -27,9 +27,9 @@ Five steps: Collect → Model → Distill → Mount → Iterate.
 
 ## 典型场景 / Typical Scenarios
 
-- 从零搭建个人知识体系
-- 把工作经验沉淀为可复用技能
-- 企业知识库建设与运营
+- 从零搭建个人知识体系 / Build a personal knowledge system from scratch
+- 把工作经验沉淀为可复用技能 / Deposit work experience into reusable skills
+- 企业知识库建设与运营 / Enterprise KB building and operation
 
 ## 关联 / Related Terms
 

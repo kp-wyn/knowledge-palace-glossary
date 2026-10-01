@@ -2,13 +2,13 @@
 id: KP-TERM-002
 term: 知识盲盒
 en: Knowledge Blind Box
-category: AI协同
-synonyms: AI模板写作，有技能无沉淀
-attribution: 知识宫殿原创提出
+category: AI协同 / AI Collaboration
+synonyms: AI模板写作 / AI Template Writing，有技能无沉淀 / Skills Without Depth
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-28
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 知识盲盒
@@ -23,9 +23,9 @@ The state of AI output after mounting skills, agents, workflows, or templates. D
 
 ## 典型场景 / Typical Scenarios
 
-- 用了AI写作模板，出来的东西"还行但不是我"
-- AI写得快，但要花大量时间改文风、加自己的案例
-- 看完输出物怀疑这真的是"我"写的吗
+- 用了AI写作模板，出来的东西"还行但不是我" / Used an AI writing template, output is "okay but not me"
+- AI写得快，但要花大量时间改文风、加自己的案例 / AI writes fast, but you spend hours adjusting style and adding your own cases
+- 看完输出物怀疑这真的是"我"写的吗 / After reading the output, doubt: did "I" really write this?
 
 ## 关联 / Related Terms
 

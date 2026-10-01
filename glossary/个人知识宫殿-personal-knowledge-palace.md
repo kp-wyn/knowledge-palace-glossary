@@ -2,13 +2,13 @@
 id: KP-TERM-049
 term: 个人知识宫殿
 en: Personal Knowledge Palace
-category: 宫殿类型
-synonyms: 个人KP，个人知识系统
-attribution: 知识宫殿原创提出
+category: 宫殿类型 / Palace Types
+synonyms: 个人KP / Personal KP，个人知识系统 / Personal Knowledge System
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 个人知识宫殿
@@ -23,8 +23,8 @@ A Knowledge Palace serving personal learning, work, and life — emphasizing per
 
 ## 典型场景 / Typical Scenarios
 
-- 个人学习、职业输出
-- 生活事务的统一管理
+- 个人学习、职业输出 / Personal learning, professional output
+- 生活事务的统一管理 / Unified management of life matters
 
 ## 关联 / Related Terms
 

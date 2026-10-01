@@ -2,13 +2,13 @@
 id: KP-TERM-033
 term: 知识地标
 en: Knowledge Landmark
-category: 质检
-synonyms: 地标库，权威知识区
-attribution: 知识宫殿原创提出
+category: 质检 / Quality Control
+synonyms: 地标库 / Landmark Library，权威知识区 / Authoritative Zone
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 知识地标
@@ -23,8 +23,8 @@ The repository that hosts verified authoritative knowledge, graded S/A/B, non-li
 
 ## 典型场景 / Typical Scenarios
 
-- 收录经典理论、行业标准
-- 权威发布、稳定方法论
+- 收录经典理论、行业标准 / Store classic theories, industry standards
+- 权威发布、稳定方法论 / Authoritative releases, stable methodologies
 
 ## 关联 / Related Terms
 

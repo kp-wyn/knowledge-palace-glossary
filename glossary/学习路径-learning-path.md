@@ -2,13 +2,13 @@
 id: KP-TERM-054
 term: 学习路径
 en: Learning Path
-category: 知识单元
-synonyms: 进阶路线，前置知识链
-attribution: 知识宫殿原创提出
+category: 知识单元 / Knowledge Units
+synonyms: 进阶路线 / Progression Path，前置知识链 / Prerequisite Chain
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 学习路径
@@ -23,7 +23,7 @@ An additional field on knowledge cards marking prerequisites and extensions, cha
 
 ## 典型场景 / Typical Scenarios
 
-- 为一个领域规划前置→核心→进阶卡片链
+- 为一个领域规划前置→核心→进阶卡片链 / Plan prerequisite→core→advanced card chain for a domain
 
 ## 关联 / Related Terms
 

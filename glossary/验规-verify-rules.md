@@ -2,13 +2,13 @@
 id: KP-TERM-020
 term: 验规
 en: Verify Rules
-category: 质检
-synonyms: 验规关，规则检查
-attribution: 知识宫殿原创提出
+category: 质检 / Quality Control
+synonyms: 验规关 / Rules Gate，规则检查 / Rule Check
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 验规
@@ -23,8 +23,8 @@ Verifying that content complies with laws, industry regulations, and platform ru
 
 ## 典型场景 / Typical Scenarios
 
-- 广告法极限词检查
-- 行业规范、平台规则核对
+- 广告法极限词检查 / Advertising law extreme-term check
+- 行业规范、平台规则核对 / Industry standards, platform rules verification
 
 ## 关联 / Related Terms
 

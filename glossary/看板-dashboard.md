@@ -2,13 +2,13 @@
 id: KP-TERM-066
 term: 看板
 en: Dashboard
-category: 架构
-synonyms: 总控台，可视化看板
-attribution: 知识宫殿原创提出
+category: 架构 / Architecture
+synonyms: 总控台 / Control Tower，可视化看板 / Visual Dashboard
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 看板
@@ -23,8 +23,8 @@ A visual control console aggregating inventory structure, card activity, skill m
 
 ## 典型场景 / Typical Scenarios
 
-- 一屏看库存、卡片、技能
-- 看待办、健康度并下钻
+- 一屏看库存、卡片、技能 / One-screen view of inventory, cards, skills
+- 看待办、健康度并下钻 / View todos, health, and drill down
 
 ## 关联 / Related Terms
 

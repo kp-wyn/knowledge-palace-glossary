@@ -2,13 +2,13 @@
 id: KP-TERM-012
 term: 加工层
 en: Processing Layer
-category: 架构
-synonyms: 提取层，蒸馏层
-attribution: 知识宫殿原创提出
+category: 架构 / Architecture
+synonyms: 提取层 / Extraction Floor，蒸馏层 / Distillation Floor
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 加工层
@@ -23,9 +23,9 @@ The third floor, responsible for extracting, activating, transferring, and disti
 
 ## 典型场景 / Typical Scenarios
 
-- 提取知识卡、跨域迁移、组合创新
-- 把项目经验萃取成经验卡
-- 蒸馏可挂载技能
+- 提取知识卡、跨域迁移、组合创新 / Extract cards, cross-domain transfer, combinatorial innovation
+- 把项目经验萃取成经验卡 / Extract project experience into experience cards
+- 蒸馏可挂载技能 / Distill mountable skills
 
 ## 关联 / Related Terms
 

@@ -2,13 +2,13 @@
 id: KP-TERM-041
 term: 技能闭环
 en: Skill Loop
-category: 价值
-synonyms: 技能进化循环，用进废退
-attribution: 知识宫殿原创提出
+category: 价值 / Value
+synonyms: 技能进化循环 / Skill Evolution Loop，用进废退 / Use-It-or-Lose-It
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 技能闭环
@@ -23,8 +23,8 @@ The complete cycle where a skill is applied to work, produces results, and those
 
 ## 典型场景 / Typical Scenarios
 
-- 技能上线→真实项目使用
-- 看成果→迭代技能
+- 技能上线→真实项目使用 / Skill goes live → used in real projects
+- 看成果→迭代技能 / Review results → iterate the skill
 
 ## 关联 / Related Terms
 

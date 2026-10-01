@@ -2,13 +2,13 @@
 id: KP-TERM-022
 term: 知识卡
 en: Knowledge Card
-category: 知识单元
-synonyms: KP-CARD，知识点卡片
-attribution: 知识宫殿原创提出
+category: 知识单元 / Knowledge Units
+synonyms: KP-CARD，知识点卡片 / Knowledge Point Card
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 知识卡
@@ -23,8 +23,8 @@ The smallest knowledge unit of the Knowledge Palace — one card explains one co
 
 ## 典型场景 / Typical Scenarios
 
-- 沉淀一个独立知识点，确保可复用、可追溯
-- 作为技能与流水线调用的最小单元
+- 沉淀一个独立知识点，确保可复用、可追溯 / Deposit one independent knowledge point, ensuring reusability and traceability
+- 作为技能与流水线调用的最小单元 / The minimal unit called by skills and pipelines
 
 ## 关联 / Related Terms
 

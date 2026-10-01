@@ -2,13 +2,13 @@
 id: KP-TERM-005
 term: 知识宫殿
 en: Knowledge Palace
-category: 架构
-synonyms: KP，个人知识操作系统
-attribution: 知识宫殿体系重新释义（原词在张萌《人生效率手册》及记忆术领域已有使用，本体系赋予全新内涵）
+category: 架构 / Architecture
+synonyms: KP，个人知识操作系统 / Personal Knowledge OS
+attribution: 知识宫殿体系重新释义 / Redefined within Knowledge Palace (original term exists in Zhang Meng's efficiency handbook and memory techniques; this system gives it new meaning)
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 知识宫殿
@@ -27,9 +27,9 @@ Difference from Memory Palace: Memory Palace is for remembering more; Knowledge 
 
 ## 典型场景 / Typical Scenarios
 
-- 做了10年以上、脑子里有货但没沉淀的专业人士
-- 想把个人经验变成可复用产品的专家
-- 想建企业知识库的团队
+- 做了10年以上、脑子里有货但没沉淀的专业人士 / Professionals with 10+ years of experience who have knowledge but haven't deposited it
+- 想把个人经验变成可复用产品的专家 / Experts who want to turn personal experience into reusable products
+- 想建企业知识库的团队 / Teams wanting to build an enterprise knowledge base
 
 ## 关联 / Related Terms
 

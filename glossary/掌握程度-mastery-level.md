@@ -2,13 +2,13 @@
 id: KP-TERM-063
 term: 掌握程度
 en: Mastery Level
-category: 知识单元
-synonyms: 掌握等级，卡片自评
-attribution: 知识宫殿原创提出
+category: 知识单元 / Knowledge Units
+synonyms: 掌握等级 / Mastery Level，卡片自评 / Card Self-Rating
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 掌握程度
@@ -23,8 +23,8 @@ An additional field on knowledge cards marking mastery: aware, understand, apply
 
 ## 典型场景 / Typical Scenarios
 
-- 给每张知识卡标掌握等级
-- 按等级安排复习
+- 给每张知识卡标掌握等级 / Tag each card with a mastery level
+- 按等级安排复习 / Schedule review by level
 
 ## 关联 / Related Terms
 

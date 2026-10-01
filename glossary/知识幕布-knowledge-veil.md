@@ -2,13 +2,13 @@
 id: KP-TERM-034
 term: 知识幕布
 en: Knowledge Veil
-category: 质检
-synonyms: 发布前质检，幕布审查
-attribution: 知识宫殿原创提出
+category: 质检 / Quality Control
+synonyms: 发布前质检 / Pre-Publish Check，幕布审查 / Veil Review
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 知识幕布
@@ -23,8 +23,8 @@ The final pre-release quality gate handling desensitization and rule compliance,
 
 ## 典型场景 / Typical Scenarios
 
-- 对外文章、方案发布前过幕布
-- 宣传物料发布前过幕布
+- 对外文章、方案发布前过幕布 / Run external articles and proposals through the veil before publishing
+- 宣传物料发布前过幕布 / Run promotional materials through the veil before publishing
 
 ## 关联 / Related Terms
 

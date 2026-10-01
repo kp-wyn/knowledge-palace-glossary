@@ -2,13 +2,13 @@
 id: KP-TERM-077
 term: AI时代体系感
 en: Systems Sense in the AI Era
-category: 价值
-synonyms: 体系感，全局把握
-attribution: 知识宫殿原创提出
+category: 价值 / Value
+synonyms: 体系感 / Systems Sense，全局把握 / Holistic View
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # AI时代体系感
@@ -23,8 +23,8 @@ Amid fragmented information and point-like answers, the human ability to grasp o
 
 ## 典型场景 / Typical Scenarios
 
-- 看清一个问题的整体结构
-- 看清要素如何关联
+- 看清一个问题的整体结构 / See the overall structure of a problem
+- 看清要素如何关联 / See how elements connect
 
 ## 关联 / Related Terms
 

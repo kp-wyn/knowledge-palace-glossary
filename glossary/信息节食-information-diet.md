@@ -2,13 +2,13 @@
 id: KP-TERM-053
 term: 信息节食
 en: Information Diet
-category: 架构
-synonyms: 信息源治理，信息摄入控制
-attribution: 知识宫殿原创提出
+category: 架构 / Architecture
+synonyms: 信息源治理 / Source Governance，信息摄入控制 / Input Control
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 信息节食
@@ -23,8 +23,8 @@ Actively controlling the quantity and quality of information intake, also called
 
 ## 典型场景 / Typical Scenarios
 
-- 高管控制信息源、取关低质渠道
-- 固定高质量输入
+- 高管控制信息源、取关低质渠道 / Executives control sources, unsubscribe low-quality channels
+- 固定高质量输入 / Fixed high-quality input
 
 ## 关联 / Related Terms
 

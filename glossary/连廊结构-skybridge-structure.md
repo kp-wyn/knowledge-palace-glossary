@@ -2,13 +2,13 @@
 id: KP-TERM-044
 term: 连廊结构
 en: Skybridge Structure
-category: 架构
-synonyms: 跨宫殿连接，殿间通道
-attribution: 知识宫殿原创提出
+category: 架构 / Architecture
+synonyms: 跨宫殿连接 / Cross-Palace Bridge，殿间通道 / Inter-Palace Passage
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 连廊结构
@@ -23,8 +23,8 @@ Connection channels between multiple Knowledge Palaces, enabling cross-palace kn
 
 ## 典型场景 / Typical Scenarios
 
-- 个人宫殿与企业主宫殿连接
-- 总部与分支机构宫殿协同
+- 个人宫殿与企业主宫殿连接 / Personal palace connects to enterprise main palace
+- 总部与分支机构宫殿协同 / HQ and branch palace coordination
 
 ## 关联 / Related Terms
 

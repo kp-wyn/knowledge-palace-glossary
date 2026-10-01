@@ -2,13 +2,13 @@
 id: KP-TERM-025
 term: 错误想法卡
 en: Wrong Idea Card
-category: 知识单元
-synonyms: KP-ERR，证伪记录卡
-attribution: 知识宫殿原创提出
+category: 知识单元 / Knowledge Units
+synonyms: KP-ERR，证伪记录卡 / Falsification Record Card
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 错误想法卡
@@ -23,8 +23,8 @@ A card recording ideas once believed but later disproven, along with the disproo
 
 ## 典型场景 / Typical Scenarios
 
-- 想法验证失败时建卡
-- 认知被推翻时建卡
+- 想法验证失败时建卡 / Create a card when an idea fails validation
+- 认知被推翻时建卡 / Create a card when a belief is overturned
 
 ## 关联 / Related Terms
 

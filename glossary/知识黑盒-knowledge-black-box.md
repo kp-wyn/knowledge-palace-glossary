@@ -2,13 +2,13 @@
 id: KP-TERM-001
 term: 知识黑盒
 en: Knowledge Black Box
-category: AI协同
-synonyms: AI抽卡，裸AI输出
-attribution: 知识宫殿原创提出
+category: AI协同 / AI Collaboration
+synonyms: AI抽卡 / AI Gacha，裸AI输出 / Raw AI Output
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-28
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 知识黑盒
@@ -23,9 +23,9 @@ An AI-generated output produced without any mounted skills, SOPs, or methodology
 
 ## 典型场景 / Typical Scenarios
 
-- 直接问ChatGPT/豆包："帮我写个品牌方案"
-- 反复抽五六次才碰到一个能用的
-- 同样提示词每次结果不一样，无法复用
+- 直接问ChatGPT/豆包："帮我写个品牌方案" / Ask ChatGPT/Doubao directly: "write a brand plan"
+- 反复抽五六次才碰到一个能用的 / Pull 5-6 times before getting one usable output
+- 同样提示词每次结果不一样，无法复用 / Same prompt gives different results each time, impossible to reuse
 
 ## 关联 / Related Terms
 

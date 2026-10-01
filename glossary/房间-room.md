@@ -2,13 +2,13 @@
 id: KP-TERM-045
 term: 房间
 en: Room
-category: 架构
-synonyms: 功能单元，房间
-attribution: 知识宫殿原创提出
+category: 架构 / Architecture
+synonyms: 功能单元 / Functional Unit，房间 / Room
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 房间
@@ -23,8 +23,8 @@ Functional units within each floor, such as the collection box on the Foundation
 
 ## 典型场景 / Typical Scenarios
 
-- 地基层的采集箱
-- 加工层的AI对话蒸馏间、风险预警工坊
+- 地基层的采集箱 / Foundation floor intake box
+- 加工层的AI对话蒸馏间、风险预警工坊 / Processing floor AI-distillation room, risk-alert workshop
 
 ## 关联 / Related Terms
 

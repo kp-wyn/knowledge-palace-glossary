@@ -2,13 +2,13 @@
 id: KP-TERM-078
 term: AI时代知识价值
 en: Knowledge Value in the AI Era
-category: 价值
-synonyms: 知识价值迁移，价值主张
-attribution: 知识宫殿原创提出
+category: 价值 / Value
+synonyms: 知识价值迁移 / Knowledge Value Transfer，价值主张 / Value Proposition
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # AI时代知识价值
@@ -23,7 +23,7 @@ In the AI era, knowledge value shifts from "possessing information" to "invoking
 
 ## 典型场景 / Typical Scenarios
 
-- 从"我知道多少"转向"我能调用什么、解决什么"
+- 从"我知道多少"转向"我能调用什么、解决什么" / Shift from "how much I know" to "what I can call up and solve"
 
 ## 关联 / Related Terms
 

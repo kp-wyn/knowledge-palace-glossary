@@ -2,13 +2,13 @@
 id: KP-TERM-004
 term: 知识明盒
 en: Knowledge Clear Box
-category: AI协同
-synonyms: 知识宫殿交付态，明牌输出
-attribution: 知识宫殿原创提出
+category: AI协同 / AI Collaboration
+synonyms: 知识宫殿交付态 / KP Delivery State，明牌输出 / Open-Card Output
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-28
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 知识明盒
@@ -23,9 +23,9 @@ The state after fully mounting a Knowledge Palace: AI calls your validated cards
 
 ## 典型场景 / Typical Scenarios
 
-- AI写的方案，客户说"对，就是这个感觉"
-- 不用反复抽卡了，一次就能用
-- 别人一看就知道"这是你写的"
+- AI写的方案，客户说"对，就是这个感觉" / AI-drafted proposal, client says "yes, exactly this feel"
+- 不用反复抽卡了，一次就能用 / No more pulling cards repeatedly; usable in one shot
+- 别人一看就知道"这是你写的" / Others immediately know "you wrote this"
 
 ## 关联 / Related Terms
 

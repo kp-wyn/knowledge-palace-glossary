@@ -2,13 +2,13 @@
 id: KP-TERM-036
 term: 知识沙箱
 en: Knowledge Sandbox
-category: 质检
-synonyms: 待验证区，隔离观察区
-attribution: 知识宫殿原创提出
+category: 质检 / Quality Control
+synonyms: 待验证区 / To-Verify Zone，隔离观察区 / Isolation Zone
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 知识沙箱
@@ -23,8 +23,8 @@ A repository that isolates unverified content requiring falsifiability, handling
 
 ## 典型场景 / Typical Scenarios
 
-- 待确认AI内容隔离
-- 候选想法、争议结论隔离
+- 待确认AI内容隔离 / Isolate unconfirmed AI content
+- 候选想法、争议结论隔离 / Isolate candidate ideas, disputed conclusions
 
 ## 关联 / Related Terms
 

@@ -2,13 +2,13 @@
 id: KP-TERM-010
 term: 地基层
 en: Foundation Layer
-category: 架构
-synonyms: 采集层，入口层
-attribution: 知识宫殿原创提出
+category: 架构 / Architecture
+synonyms: 采集层 / Intake Floor，入口层 / Entry Floor
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 地基层
@@ -23,8 +23,8 @@ The first floor of the Knowledge Palace, responsible for collecting, encoding, a
 
 ## 典型场景 / Typical Scenarios
 
-- 读书划线、网页剪藏进入采集箱
-- 聊天记录、会议纪要、临时灵感归位
+- 读书划线、网页剪藏进入采集箱 / Book highlights, web clips to intake box
+- 聊天记录、会议纪要、临时灵感归位 / Chats, meeting notes, fleeting ideas filed
 
 ## 关联 / Related Terms
 

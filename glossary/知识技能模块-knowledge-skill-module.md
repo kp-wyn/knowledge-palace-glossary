@@ -2,13 +2,13 @@
 id: KP-TERM-074
 term: 知识技能模块
 en: Knowledge Skill Module
-category: 技能
-synonyms: 功能模块，成套能力
-attribution: 知识宫殿原创提出
+category: 技能 / Skills
+synonyms: 功能模块 / Functional Module，成套能力 / Complete Capability Set
+attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
-status: 已稳定
+status: 已稳定 / Stable
 ---
 
 # 知识技能模块
@@ -23,8 +23,8 @@ A functional module composed of a set of mounted skills, special libraries, and 
 
 ## 典型场景 / Typical Scenarios
 
-- 教学模块、质检模块
-- GEO模块等成套能力
+- 教学模块、质检模块 / Teaching module, quality-check module
+- GEO模块等成套能力 / GEO module and other complete capability sets
 
 ## 关联 / Related Terms
 
