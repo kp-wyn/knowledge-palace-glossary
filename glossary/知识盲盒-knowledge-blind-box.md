@@ -1,28 +1,37 @@
 ---
+id: KP-TERM-002
 term: 知识盲盒
 en: Knowledge Blind Box
-category: AI协同类
-level: 2/4 中间态
+category: AI协同
+synonyms: AI模板写作，有技能无沉淀
+attribution: 知识宫殿原创提出
+created: 2026-09-28
+updated: 2026-10-01
+version: 1.0
+status: 已稳定
 ---
 
 # 知识盲盒
 
-> Knowledge Blind Box
+## 中文
 
-## 一句话定义
-挂载了技能、Agent、工作流、SOP、专家模板后 AI 生成内容的状态——方向可控、结构稳定，但在 70 分基线上下浮动，偶尔能蹦出 90 分作品。
+挂载了技能、Agent、工作流、SOP、专家模板后AI生成内容的状态——方向可控、结构稳定，但70分基线浮动，偶尔蹦出90分作品。核心症状是产出物不属于你：不是你的文风、不是你的经验、不是你的判断，你只是旁观者。
 
-把自己的方法论、案例、知识库喂给 AI，让它调用你验证过的东西，即进入**知识白盒**。
+## English
 
-## 为什么需要这个词
-很多人以为“会写 prompt”就是会用 AI 了，其实只是从黑盒走进了盲盒。你知道会开出什么系列（结构对、方向对），但款式随机（质量不稳定、没有你的指纹）。核心症状是**产出物不属于你**：不是你的文风、不是你的经验沉淀、不是你的判断痕迹，你只是旁观者和验收员。
+The state of AI output after mounting skills, agents, workflows, or templates. Direction is controllable and structure is stable, but quality hovers around a 70/100 baseline with occasional surprises. The core symptom: the output isn't yours — it lacks your voice, your experience, your judgment.
 
-## 典型场景
-- 用了各种 AI 写作模板，出来的东西“还行但不是我”
-- AI 写得很快，但你要花大量时间改文风、加自己的案例
-- 看完输出物，你怀疑这真的是“我”写的吗
+## 典型场景 / Typical Scenarios
 
-## 关联术语
-- [知识黑盒](./知识黑盒-knowledge-black-box.md)
-- [知识白盒](./知识白盒-knowledge-white-box.md)
-- [知识明盒](./知识明盒-knowledge-clear-box.md)
+- 用了AI写作模板，出来的东西"还行但不是我"
+- AI写得快，但要花大量时间改文风、加自己的案例
+- 看完输出物怀疑这真的是"我"写的吗
+
+## 关联 / Related Terms
+
+- 上一层 / Previous: [知识黑盒 / Knowledge Black Box](./知识黑盒-knowledge-black-box.md)
+- 下一层 / Next: [知识白盒 / Knowledge White Box](./知识白盒-knowledge-white-box.md)
+- 治理目标 / Target: [知识明盒 / Knowledge Clear Box](./知识明盒-knowledge-clear-box.md)
+
+---
+© KP-4+1 Knowledge Palace · kp-wyn · v1.0

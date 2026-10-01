@@ -1,25 +1,35 @@
 ---
+id: KP-TERM-051
 term: 专家级知识宫殿
 en: Expert Knowledge Palace
-category: 价值类
-level: 宫殿类型
+category: 宫殿类型
+synonyms: 专业岗位KP，高可信输出
+attribution: 知识宫殿原创提出
+created: 2026-09-12
+updated: 2026-10-01
+version: 1.0
+status: 已稳定
 ---
 
 # 专家级知识宫殿
 
-> Expert Knowledge Palace
+## 中文
 
-## 一句话定义
-服务专业服务岗位（教师、医生、律师、税务师等）的知识宫殿，突出专业合规与高可信输出。
+服务专业服务岗位（教师、医生、律师、税务师等）的知识宫殿，突出专业合规与高可信输出。专业岗位输出量大、合规要求高，需要把专业知识、法规与经验系统化。
 
-## 为什么需要这个词
-专业岗位输出量大、合规要求高，需要把专业知识、法规与经验系统化，稳定可靠地输出。
+## English
 
-## 典型场景
+A Knowledge Palace for professional roles (teachers, doctors, lawyers, tax advisors), emphasizing professional compliance and high-trust output. Professional roles produce high volume with strict compliance requirements — they need systematic professional knowledge, regulations, and experience.
+
+## 典型场景 / Typical Scenarios
+
 - 教师、医生、律师、税务师
 - 专业知识与合规管理
 
-## 关联术语
-- [企业级知识宫殿](./企业级知识宫殿-enterprise-knowledge-palace.md)
-- [个人知识宫殿](./个人知识宫殿-personal-knowledge-palace.md)
-- [验合规](./验合规-verify-compliance.md)
+## 关联 / Related Terms
+
+- 个人 / Personal: [个人知识宫殿 / Personal Knowledge Palace](./个人知识宫殿-personal-knowledge-palace.md)
+- 合规 / Compliance: [验合规 / Verify Compliance](./验合规-verify-compliance.md)
+
+---
+© KP-4+1 Knowledge Palace · kp-wyn · v1.0

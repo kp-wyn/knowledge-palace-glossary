@@ -1,25 +1,35 @@
 ---
+id: KP-TERM-030
 term: AI外部存储
 en: AI External Storage
-category: AI协同类
-level: 外围
+category: AI协同
+synonyms: 外挂存储，外部索引
+attribution: 知识宫殿原创提出
+created: 2026-09-12
+updated: 2026-10-01
+version: 1.0
+status: 已稳定
 ---
 
 # AI外部存储
 
-> AI External Storage
+## 中文
 
-## 一句话定义
-把大体积、原始素材放到宫殿外部存储（外挂盘或云端），宫殿内只保留调用入口与索引。
+把大体积、原始素材放到宫殿外部存储（外挂盘或云端），宫殿内只保留调用入口与索引。宫殿无限膨胀会拖慢调用、增大风险；外部存储让母体保持"瘦"。
 
-## 为什么需要这个词
-宫殿无限膨胀会拖慢调用、增大风险；外部存储让母体保持“瘦”，素材按需调取。
+## English
 
-## 典型场景
+Storing large raw materials outside the palace (external drive or cloud), keeping only entry points and indexes inside. Unlimited bloat slows retrieval and increases risk; external storage keeps the core lean.
+
+## 典型场景 / Typical Scenarios
+
 - 大文件、原始素材放外挂盘或云端
 - 库内只留链接与索引
 
-## 关联术语
-- [信息节食](./信息节食-information-diet.md)
-- [知识资产账本](./知识资产账本-knowledge-asset-ledger.md)
-- [知识围墙](./知识围墙-knowledge-wall.md)
+## 关联 / Related Terms
+
+- 原则 / Principle: [信息节食 / Information Diet](./信息节食-information-diet.md)
+- 边界 / Boundary: [知识围墙 / Knowledge Wall](./知识围墙-knowledge-wall.md)
+
+---
+© KP-4+1 Knowledge Palace · kp-wyn · v1.0

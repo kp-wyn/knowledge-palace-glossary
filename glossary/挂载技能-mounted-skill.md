@@ -1,25 +1,35 @@
 ---
+id: KP-TERM-038
 term: 挂载技能
 en: Mounted Skill
-category: 技能与模块类
-level: 技能单元
+category: 技能
+synonyms: kp-技能，可调用技能
+attribution: 知识宫殿原创提出
+created: 2026-09-12
+updated: 2026-10-01
+version: 1.0
+status: 已稳定
 ---
 
 # 挂载技能
 
-> Mounted Skill
+## 中文
 
-## 一句话定义
-封装成熟方法论、可被挂载到知识宫殿中按场景调用的技能，统一以 kp- 前缀命名。
+封装成熟方法论、可被挂载到知识宫殿中按场景调用的技能，统一以kp-前缀命名。方法论只停留在文章里用时还要从头想；封装成挂载技能才能一键调用。
 
-## 为什么需要这个词
-方法论若只停留在文章里，用时还要从头想；封装成挂载技能，才能一键调用、复用方法。
+## English
 
-## 典型场景
-- 把成熟方法封装为 SKILL.md
+A skill that encapsulates mature methodology and can be mounted into the Knowledge Palace for on-demand invocation, uniformly prefixed kp-. Methodology left in articles requires rethinking every time; mounted skills enable one-click recall.
+
+## 典型场景 / Typical Scenarios
+
+- 把成熟方法封装为SKILL.md
 - 按触发词调用技能
 
-## 关联术语
-- [知识技能模块](./知识技能模块-knowledge-skill-module.md)
-- [流水线技能](./流水线技能-pipeline-skill.md)
-- [技能架构师](./技能架构师-skill-architect.md)
+## 关联 / Related Terms
+
+- 组合 / Combined into: [流水线技能 / Pipeline Skill](./流水线技能-pipeline-skill.md)
+- 设计 / Designer: [技能架构师 / Skill Architect](./技能架构师-skill-architect.md)
+
+---
+© KP-4+1 Knowledge Palace · kp-wyn · v1.0

@@ -1,27 +1,35 @@
 ---
-term: 验错（知识毒丸）
+id: KP-TERM-017
+term: 验错
 en: Verify Error
-category: 质检类
-level: 第二道
+category: 质检
+synonyms: 验错关，错误识别
+attribution: 知识宫殿原创提出
+created: 2026-09-12
+updated: 2026-10-01
+version: 1.0
+status: 已稳定
 ---
 
-# 验错（知识毒丸）
+# 验错
 
-> Verify Error
+## 中文
 
-## 一句话定义
-三验一密的第二道，识别错误、过时、AI 幻觉与认知偏差，由知识毒丸库承担。
+三验一密的第二道，识别错误、过时、AI幻觉与认知偏差。错未除不放行——把错误显式收录、从反面学习，避免重犯。
 
-- 错未除不放行
+## English
 
-## 为什么需要这个词
-错误知识若当正确使用会直接导致误判；把错误显式收录、从反面学习，避免重犯。
+The second gate, identifying errors, outdated knowledge, AI hallucinations, and cognitive biases. No error check, no entry — errors are explicitly recorded and learned from in reverse.
 
-## 典型场景
-- 识别伪科学、AI 幻觉
+## 典型场景 / Typical Scenarios
+
+- 识别伪科学、AI幻觉
 - 识别认知误区、失败想法
 
-## 关联术语
-- [知识毒丸库](./知识毒丸库-knowledge-poison-pill-library.md)
-- [错误想法卡](./错误想法卡-wrong-idea-card.md)
-- [三验一密](./三验一密-three-verifications-one-encryption.md)
+## 关联 / Related Terms
+
+- 所属机制 / System: [三验一密 / Three Verifications One Encryption](./三验一密-three-verifications-one-encryption.md)
+- 承载 / Host: [知识毒丸 / Knowledge Poison Pill](./知识毒丸库-knowledge-poison-pill-library.md)
+
+---
+© KP-4+1 Knowledge Palace · kp-wyn · v1.0

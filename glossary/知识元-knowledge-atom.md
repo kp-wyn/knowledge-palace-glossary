@@ -1,23 +1,33 @@
 ---
+id: KP-TERM-032
 term: 知识元
 en: Knowledge Atom
-category: 知识单元类
-level: 最小单位
+category: 知识单元
+synonyms: 最小知识单位，知识颗粒
+attribution: 知识宫殿原创提出
+created: 2026-09-12
+updated: 2026-10-01
+version: 1.0
+status: 已稳定
 ---
 
 # 知识元
 
-> Knowledge Atom
+## 中文
 
-## 一句话定义
-最小的、不可再分的知识单位，是构成知识卡的基本颗粒。
+最小的、不可再分的知识单位，是构成知识卡的基本颗粒。复杂知识必须拆到最小颗粒才能被准确理解、自由组合。
 
-## 为什么需要这个词
-复杂知识必须拆到最小颗粒才能被准确理解、自由组合；知识元是拆分与重组的底座。
+## English
 
-## 典型场景
+The smallest, indivisible unit of knowledge — the basic particle that makes up knowledge cards. Complex knowledge must be broken down to its smallest particles to be accurately understood and freely recombined.
+
+## 典型场景 / Typical Scenarios
+
 - 把一个概念拆到不可再分的单点
 
-## 关联术语
-- [知识卡](./知识卡-knowledge-card.md)
-- [库、区、房、卡](./库、区、房、卡-library-zone-room-card.md)
+## 关联 / Related Terms
+
+- 组装 / Assembly: [知识卡 / Knowledge Card](./知识卡-knowledge-card.md)
+
+---
+© KP-4+1 Knowledge Palace · kp-wyn · v1.0

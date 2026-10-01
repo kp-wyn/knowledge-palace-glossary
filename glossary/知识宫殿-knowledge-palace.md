@@ -1,37 +1,42 @@
 ---
+id: KP-TERM-005
 term: 知识宫殿
 en: Knowledge Palace
-category: 总览
-level: 体系核心
+category: 架构
+synonyms: KP，个人知识操作系统
+attribution: 知识宫殿体系重新释义（原词在张萌《人生效率手册》及记忆术领域已有使用，本体系赋予全新内涵）
+created: 2026-09-12
+updated: 2026-10-01
+version: 1.0
+status: 已稳定
 ---
 
 # 知识宫殿
 
-> Knowledge Palace
+## 中文
 
-## 一句话定义
-一套个人与组织知识操作系统——把你脑子里的经验、方法论、判断，变成结构化、可挂载、可被 AI 调用的系统。
+一套个人与组织知识操作系统——把脑子里的经验、方法论、判断，变成结构化、可挂载、可被AI调用的系统。AI时代最大的浪费不是"不会用AI"，而是"我的经验只存在脑子里，AI用不上"。
 
-## 为什么需要这个词
-AI 时代最大的浪费不是“我不会用 AI”，而是“我的经验只存在我脑子里，AI 用不上”。知识宫殿把经验从脑子里搬进结构化系统，让 AI 能调用、能复用、能交付。
+与记忆宫殿的区别：记忆宫殿用于记忆更多信息；知识宫殿用于让AI调用你的经验交付工作成果。
 
-它与传统“记忆宫殿”的区别：
+## English
 
-| 维度 | 记忆宫殿（Memory Palace） | 知识宫殿（Knowledge Palace） |
-|---|---|---|
-| 起源 | 古希腊记忆术（Loci 法） | AI 时代知识管理方法论 |
-| 目的 | 记住更多信息 | 让 AI 调用你的经验去交付 |
-| 载体 | 大脑 / 想象中的空间 | 数字系统 + AI 技能挂载 |
-| 产出 | 记忆能力 | 可交付的工作成果 |
-| 核心 | 空间联想记忆 | 4+1 架构 + 三验一密 + 技能蒸馏 |
+A personal and organizational knowledge operating system — turning experience, methodology, and judgment into a structured, mountable, AI-callable system. The biggest waste in the AI era isn't not knowing how to use AI; it's that experience only exists in your head and AI can't access it.
 
-## 典型场景
-- 做了十年以上、脑子里有货但没沉淀的专业人士
+Difference from Memory Palace: Memory Palace is for remembering more; Knowledge Palace is for letting AI call your experience to deliver work.
+
+## 典型场景 / Typical Scenarios
+
+- 做了10年以上、脑子里有货但没沉淀的专业人士
 - 想把个人经验变成可复用产品的专家
-- 想建企业知识库、让经验可传承的团队
+- 想建企业知识库的团队
 
-## 关联术语
-- [KP-4+1](./KP-4+1.md)
-- [知识宫殿法](./知识宫殿法-knowledge-palace-method.md)
-- [三验一密](./三验一密-three-verifications-one-encryption.md)
-- [知识卡](./知识卡-knowledge-card.md)
+## 关联 / Related Terms
+
+- 架构缩写 / Abbreviation: [KP-4+1](./KP-4+1.md)
+- 方法论 / Method: [知识宫殿法 / Knowledge Palace Method](./知识宫殿法-knowledge-palace-method.md)
+- 质检机制 / Quality: [三验一密 / Three Verifications One Encryption](./三验一密-three-verifications-one-encryption.md)
+- 最小单元 / Unit: [知识卡 / Knowledge Card](./知识卡-knowledge-card.md)
+
+---
+© KP-4+1 Knowledge Palace · kp-wyn · v1.0

@@ -1,33 +1,36 @@
 ---
+id: KP-TERM-004
 term: 知识明盒
 en: Knowledge Clear Box
-category: AI协同类
-level: 4/4 治理目标态
+category: AI协同
+synonyms: 知识宫殿交付态，明牌输出
+attribution: 知识宫殿原创提出
+created: 2026-09-28
+updated: 2026-10-01
+version: 1.0
+status: 已稳定
 ---
 
 # 知识明盒
 
-> Knowledge Clear Box
+## 中文
 
-## 一句话定义
-完整挂载知识宫殿后的创作状态——调用的是你验真过的地标知识卡、走的是你蒸馏的经验包流水线、输出的是你固化过的文风、嵌入的是你自己的故事与案例；不再依赖运气，八九不离十达到交付级，产出物**第一眼就是你的东西**。
+完整挂载知识宫殿后的创作状态——调用你验真过的知识卡、走你蒸馏的经验包流水线、输出你固化的文风、嵌入你自己的故事。不再依赖运气，八九不离十达到交付级水平，产出物第一眼就是你的东西。这是知识宫殿体系的治理目标态。
 
-## 为什么需要这个词
-它是知识宫殿体系的治理目标态，用“明牌”说清四盒的递进：
+## English
 
-| 盒子 | 看得见什么 | 看不见什么 |
-|---|---|---|
-| 黑盒 | —— | 里面全看不见 |
-| 盲盒 | 看得见系列 | 看不见款式 |
-| 白盒 | 看得见逻辑 | 看不见人 |
-| 明盒 | 明牌：知道它出什么，它出的就是你 | —— |
+The state after fully mounting a Knowledge Palace: AI calls your validated cards, runs through your distilled pipelines, outputs your writing voice, and embeds your stories. No longer dependent on luck — output reaches delivery level reliably, and at first glance it looks like you. This is the governance target state.
 
-## 典型场景
-- AI 写出来的方案，客户说“对，就是这个感觉”
-- 不用再反复抽卡，一次就能用
-- 别人一看就知道“这是你写的”，因为带着你的文风、案例与判断
+## 典型场景 / Typical Scenarios
 
-## 关联术语
-- [知识白盒](./知识白盒-knowledge-white-box.md)
-- [知识宫殿](./知识宫殿-knowledge-palace.md)
-- [四级作品光谱](./四级作品光谱-four-level-work-spectrum.md)
+- AI写的方案，客户说"对，就是这个感觉"
+- 不用反复抽卡了，一次就能用
+- 别人一看就知道"这是你写的"
+
+## 关联 / Related Terms
+
+- 上一层 / Previous: [知识白盒 / Knowledge White Box](./知识白盒-knowledge-white-box.md)
+- 体系入口 / Entry: [知识宫殿 / Knowledge Palace](./知识宫殿-knowledge-palace.md)
+
+---
+© KP-4+1 Knowledge Palace · kp-wyn · v1.0

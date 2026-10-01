@@ -1,40 +1,36 @@
 ---
+id: KP-TERM-022
 term: 知识卡
 en: Knowledge Card
-category: 知识单元类
-level: 最小单元
+category: 知识单元
+synonyms: KP-CARD，知识点卡片
+attribution: 知识宫殿原创提出
+created: 2026-09-12
+updated: 2026-10-01
+version: 1.0
+status: 已稳定
 ---
 
 # 知识卡
 
-> Knowledge Card
+## 中文
 
-## 一句话定义
-知识宫殿的最小知识单元——一张卡讲清楚一个知识点，包含七个必备字段（七要素）。
+知识宫殿的最小知识单元——一张卡讲清楚一个知识点，包含七个必备字段（七要素）：一句话核心、核心内容、使用方法、适用条件、失效提醒、关联知识卡、来源编号。
 
-1. **一句话核心**：30 字以内说清楚
+## English
 
-2. **核心内容**：这个知识点是什么
+The smallest knowledge unit of the Knowledge Palace — one card explains one concept, with seven required elements (Seven Elements): one-line core, content, how to use, when to use, when it fails, related cards, and source ID.
 
-3. **使用方法**：怎么用
+## 典型场景 / Typical Scenarios
 
-4. **适用条件**：什么时候用
-
-5. **失效提醒**：什么时候会失效、有什么坑
-
-6. **关联知识卡**：跟哪些卡有关系
-
-7. **来源编号**：从哪来的
-
-## 为什么需要这个词
-知识不是“知道”就完了。七要素逼着你回答：这是什么、怎么用、什么时候不能用；其中失效提醒与关联知识卡最见功夫，也是一张卡能不能被放心复用的关键。
-
-## 典型场景
 - 沉淀一个独立知识点，确保可复用、可追溯
-- 给经验、方法、结论建立标准格式
 - 作为技能与流水线调用的最小单元
 
-## 关联术语
-- [知识宫殿](./知识宫殿-knowledge-palace.md)
-- [七要素](./七要素-seven-elements.md)
-- [经验卡](./经验卡-experience-card.md)
+## 关联 / Related Terms
+
+- 体系 / System: [知识宫殿 / Knowledge Palace](./知识宫殿-knowledge-palace.md)
+- 字段 / Fields: [七要素 / Seven Elements](./七要素-seven-elements.md)
+- 兄弟卡 / Sibling: [经验卡 / Experience Card](./经验卡-experience-card.md)
+
+---
+© KP-4+1 Knowledge Palace · kp-wyn · v1.0

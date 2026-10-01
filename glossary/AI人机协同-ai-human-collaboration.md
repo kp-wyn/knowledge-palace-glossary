@@ -1,28 +1,36 @@
 ---
+id: KP-TERM-029
 term: AI人机协同
 en: AI-Human Collaboration
-category: AI协同类
-level: 协同机制
+category: AI协同
+synonyms: 人机协作，人机分工
+attribution: 知识宫殿原创提出
+created: 2026-09-12
+updated: 2026-10-01
+version: 1.0
+status: 已稳定
 ---
 
 # AI人机协同
 
-> AI-Human Collaboration
+## 中文
 
-## 一句话定义
-贯穿知识宫殿全程的人机协作机制：AI 承担执行与初稿，人承担方向、判断、终审与责任。
+贯穿知识宫殿全程的人机协作机制：AI承担执行与初稿，人承担方向、判断、终审与责任。黄金规则：存储可外包，理解与判断不可外包。
 
-- 黄金规则：存储可外包，理解与判断不可外包
+## English
 
-## 为什么需要这个词
-AI 能极大提升效率，但不能替人判断、替人负责；明确协同边界才能既高效又不失控。
+A collaboration mechanism running through the Knowledge Palace: AI executes and drafts; humans set direction, make judgments, do final review, and own responsibility. Golden rule: storage can be outsourced; understanding and judgment cannot.
 
-## 典型场景
-- AI 出初稿、人做决策
-- AI 执行、人验收
+## 典型场景 / Typical Scenarios
 
-## 关联术语
-- [AI施工队](./AI施工队-ai-construction-team.md)
-- [人类验收](./人类验收-human-verification.md)
-- [责任锚定](./责任锚定-responsibility-anchoring.md)
-- [+1人机协同层](./+1人机协同层-human-ai-collaboration-layer.md)
+- AI出初稿、人做决策
+- AI执行、人验收
+
+## 关联 / Related Terms
+
+- 层 / Layer: [人机协同层 / Human-AI Collaboration Layer](./+1人机协同层-human-ai-collaboration-layer.md)
+- 执行方 / Executor: [AI施工队 / AI Construction Team](./AI施工队-ai-construction-team.md)
+- 验收方 / Approver: [人类验收 / Human Verification](./人类验收-human-verification.md)
+
+---
+© KP-4+1 Knowledge Palace · kp-wyn · v1.0

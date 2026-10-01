@@ -1,27 +1,35 @@
 ---
-term: 验疑（知识沙箱）
+id: KP-TERM-018
+term: 验疑
 en: Verify Doubt
-category: 质检类
-level: 第三道
+category: 质检
+synonyms: 验疑关，存疑隔离
+attribution: 知识宫殿原创提出
+created: 2026-09-12
+updated: 2026-10-01
+version: 1.0
+status: 已稳定
 ---
 
-# 验疑（知识沙箱）
+# 验疑
 
-> Verify Doubt
+## 中文
 
-## 一句话定义
-三验一密的第三道，对存疑、待验证内容隔离观察，由知识沙箱承担。
+三验一密的第三道，对存疑、待验证内容隔离观察。疑未解不放行——暂时无法证实也无法证伪的内容，不能直接入库也不该丢弃，隔离验证最稳妥。
 
-- 疑未解不放行
+## English
 
-## 为什么需要这个词
-暂时无法证实也无法证伪的内容，不能直接入库也不该丢弃；隔离验证最稳妥。
+The third gate, isolating uncertain or unverified content for observation. No doubt resolved, no entry — content that can't yet be confirmed or refuted shouldn't enter the main library, but shouldn't be discarded either.
 
-## 典型场景
-- AI 生成待确认内容
+## 典型场景 / Typical Scenarios
+
+- AI生成待确认内容
 - 候选想法、有争议结论
 
-## 关联术语
-- [知识沙箱](./知识沙箱-knowledge-sandbox.md)
-- [候选区](./候选区-candidate-zone.md)
-- [三验一密](./三验一密-three-verifications-one-encryption.md)
+## 关联 / Related Terms
+
+- 所属机制 / System: [三验一密 / Three Verifications One Encryption](./三验一密-three-verifications-one-encryption.md)
+- 承载 / Host: [知识沙箱 / Knowledge Sandbox](./知识沙箱-knowledge-sandbox.md)
+
+---
+© KP-4+1 Knowledge Palace · kp-wyn · v1.0

@@ -1,37 +1,37 @@
 ---
+id: KP-TERM-008
 term: 技能架构师
 en: Skill Architect
-category: 技能与模块类
-level: 职业角色
+category: 角色
+synonyms: AI技能架构师，知识宫殿架构师
+attribution: 知识宫殿体系原创提出
+created: 2026-09-12
+updated: 2026-10-01
+version: 1.0
+status: 已稳定
 ---
 
 # 技能架构师
 
-> Skill Architect
+## 中文
 
-## 一句话定义
-在 AI 时代，把真实业务与知识场景的问题，通过技能架构、流水线编排和系统集成，转化为可复用、可运行、可进化的技能系统的角色。
+在AI时代，把真实业务与知识场景的问题，通过技能架构、流水线编排和系统集成，转化为可复用、可运行、可进化的技能系统的角色。不是prompt工程师，不是AI产品经理，是"把一个人脑子里的经验变成AI能调用的系统"的翻译官。
 
-围绕四项核心能力，并以能力公式自检：
+## English
 
-- **场景洞察**：识别哪些工作可蒸馏成技能
+In the AI era, a role that transforms real business and knowledge-scenario problems into reusable, runnable, evolvable skill systems through skill architecture, pipeline orchestration, and system integration. Not a prompt engineer, not a PM — a translator who turns what's in one person's head into a system AI can call.
 
-- **技能设计**：把 SOP 写成 AI 能执行的挂载技能
+## 典型场景 / Typical Scenarios
 
-- **流水线编排**：串联多个技能完成复杂任务
-
-- **系统沉淀**：让技能可复用、可迭代、可传承
-
-## 为什么需要这个词
-工具人人会用，但把业务沉淀成技能系统需要专门角色。技能架构师是 AI 时代的新职业——不是 prompt 工程师，不是 AI 产品经理，而是“把一个人脑子里的经验变成 AI 能调用的系统”的翻译官。
-
-## 典型场景
-- 识别哪些高频工作可以蒸馏成技能
-- 把一份 SOP 写成 AI 能执行的挂载技能
-- 串联多个技能，编排成完成复杂任务的流水线
+- 进现场、拆问题、设计技能
+- 编流水线、沉淀资产
 - 让技能可复用、可迭代、可传承
 
-## 关联术语
-- [流水线技能](./流水线技能-pipeline-skill.md)
-- [挂载技能](./挂载技能-mounted-skill.md)
-- [知识技能模块](./知识技能模块-knowledge-skill-module.md)
+## 关联 / Related Terms
+
+- [流水线技能 / Pipeline Skill](./流水线技能-pipeline-skill.md)
+- [挂载技能 / Mounted Skill](./挂载技能-mounted-skill.md)
+- [知识技能模块 / Knowledge Skill Module](./知识技能模块-knowledge-skill-module.md)
+
+---
+© KP-4+1 Knowledge Palace · kp-wyn · v1.0

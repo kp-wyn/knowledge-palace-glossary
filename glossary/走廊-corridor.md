@@ -1,24 +1,34 @@
 ---
+id: KP-TERM-042
 term: 走廊
 en: Corridor
-category: 架构类
-level: 同层连接
+category: 架构
+synonyms: 同层连接，横向通道
+attribution: 知识宫殿原创提出
+created: 2026-09-12
+updated: 2026-10-01
+version: 1.0
+status: 已稳定
 ---
 
 # 走廊
 
-> Corridor
+## 中文
 
-## 一句话定义
-同层、同类知识之间的横向连接通道（区别于跨层跨域的连廊）。
+同层、同类知识之间的横向连接通道。同类知识需要横向关联、彼此激活，走廊让同层知识不再是孤岛。
 
-## 为什么需要这个词
-同类知识需要横向关联、彼此激活，走廊让同层知识不再是孤岛。
+## English
 
-## 典型场景
+Horizontal connection channels between same-floor, same-type knowledge. Related knowledge needs cross-activation; corridors keep same-floor knowledge from becoming isolated islands.
+
+## 典型场景 / Typical Scenarios
+
 - 同一主题下多张知识卡互相连接
 
-## 关联术语
-- [走廊连接](./走廊连接-corridor-connection.md)
-- [连廊结构](./连廊结构-skybridge-structure.md)
-- [双向链接](./双向链接-bidirectional-link.md)
+## 关联 / Related Terms
+
+- 跨层连接 / Cross-floor: [走廊连接 / Corridor Connection](./走廊连接-corridor-connection.md)
+- 跨殿连接 / Cross-palace: [连廊结构 / Skybridge Structure](./连廊结构-skybridge-structure.md)
+
+---
+© KP-4+1 Knowledge Palace · kp-wyn · v1.0

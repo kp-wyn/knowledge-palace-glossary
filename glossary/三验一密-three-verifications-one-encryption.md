@@ -1,35 +1,39 @@
 ---
+id: KP-TERM-015
 term: 三验一密
 en: Three Verifications and One Encryption
-category: 质检类
-level: 底层质检机制
+category: 质检
+synonyms: 四道关，入库质检
+attribution: 知识宫殿原创提出
+created: 2026-09-12
+updated: 2026-10-01
+version: 1.0
+status: 已稳定
 ---
 
 # 三验一密
 
-> Three Verifications and One Encryption
+## 中文
 
-## 一句话定义
-知识宫殿的底层质检机制——任何知识入库、任何内容发布前必须过四道关：**验真、验错、验疑、验密**。
+知识宫殿的底层质检机制——任何知识入库、任何内容发布前必须过四道关：验真、验错、验疑、验密。把质量从"靠人自觉"变成"不过关不放行"的底层机制。
 
-| 关 | 干什么 | 不通过会怎样 |
-|---|---|---|
-| 验真 | 验证知识是否真实、来源是否可靠 | 假知识不能入库 |
-| 验错 | 识别错误、过时、认知偏差 | 进知识毒丸库反面学习 |
-| 验疑 | 存疑知识隔离验证 | 不验证完不入库 |
-| 验密 | 合规、脱敏、广告法/行业规范 | 不合规不对外发布 |
+## English
 
-## 为什么需要这个词
-没有强制质检，假知识、错误知识、存疑结论与不合规内容会直接流入产出。三验一密把质量从“靠人自觉”变成“不过关不放行”的底层机制。
+The underlying quality-check mechanism of the Knowledge Palace — any knowledge entering the system or any content published must pass four gates: verify truth, verify error, verify doubt, and verify confidentiality. Turns quality from "relying on people's conscience" into "nothing passes without approval."
 
-## 典型场景
+## 典型场景 / Typical Scenarios
+
 - 知识入库前的质量检验
 - 内容对外发布前的合规检查
-- 定位一次产出“到底哪一关没过”
+- 定位一次产出到底哪一关没过
 
-## 关联术语
-- [验真（知识地标）](./验真-verify-truth.md)
-- [验错（知识毒丸）](./验错-verify-error.md)
-- [验疑（知识沙箱）](./验疑-verify-doubt.md)
-- [验密（知识幕布）](./验密-verify-confidentiality.md)
-- [质检闸](./质检闸-quality-gate.md)
+## 关联 / Related Terms
+
+- 第一道 / Gate 1: [验真 / Verify Truth](./验真-verify-truth.md)
+- 第二道 / Gate 2: [验错 / Verify Error](./验错-verify-error.md)
+- 第三道 / Gate 3: [验疑 / Verify Doubt](./验疑-verify-doubt.md)
+- 第四道 / Gate 4: [验密 / Verify Confidentiality](./验密-verify-confidentiality.md)
+- 入口 / Gate: [质检闸 / Quality Gate](./质检闸-quality-gate.md)
+
+---
+© KP-4+1 Knowledge Palace · kp-wyn · v1.0

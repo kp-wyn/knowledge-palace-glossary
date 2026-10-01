@@ -1,40 +1,41 @@
 ---
+id: KP-TERM-006
 term: 知识宫殿法
 en: Knowledge Palace Method
-category: 总览
-level: 方法论
+category: 架构
+synonyms: KP法，知识宫殿方法论
+attribution: 知识宫殿体系原创提出
+created: 2026-09-12
+updated: 2026-10-01
+version: 1.0
+status: 已稳定
 ---
 
 # 知识宫殿法
 
-> Knowledge Palace Method
+## 中文
 
-## 一句话定义
-搭建和运营知识宫殿的完整方法论——从知识采集、结构建模、技能蒸馏到复盘迭代的全流程操作指南；它不是一个软件，是一套“怎么把脑子里的东西变成 AI 能用的资产”的操作系统。
+搭建和运营知识宫殿的完整方法论——从知识采集、结构建模、技能蒸馏到复盘迭代的全流程操作指南。它不是软件，是"怎么把脑子里的东西变成AI能用的资产"的操作系统。
 
-1. **采集**：把读过、用过、验真过的知识存进来
+五步：采集 → 建模 → 蒸馏 → 挂载 → 迭代。
 
-2. **建模**：分类、关联，形成知识体系
+## English
 
-3. **蒸馏**：把经验变成知识卡和可挂载技能
+The complete methodology for building and operating a Knowledge Palace — from collection, modeling, and skill distillation to review and iteration. It's not software; it's an operating system for turning what's in your head into assets AI can use.
 
-4. **挂载**：让 AI 调用你的知识和技能
+Five steps: Collect → Model → Distill → Mount → Iterate.
 
-5. **迭代**：复盘、淘汰、升级
+## 典型场景 / Typical Scenarios
 
-## 为什么需要这个词
-宫殿是结果，宫殿法是“怎么建、怎么养”的路径。它用四条核心原则守住底线：
-1. **先有真知识，再谈 AI**——没有验真为真的知识卡，AI 就是在幻觉
-2. **经验必须蒸馏成技能**——散的经验用不上，蒸馏成流水线才能复用
-3. **人做决策，AI 做执行**——+1 层的本质是人机分工
-4. **三验一密是底线**——验真、验疑、验错 + 加密溯源
+- 从零搭建个人知识体系
+- 把工作经验沉淀为可复用技能
+- 企业知识库建设与运营
 
-## 典型场景
-- 从零开始建一座个人或企业知识宫殿
-- 给已有知识库补“采集—蒸馏—挂载—迭代”的闭环
-- 指导技能架构师按统一路径施工
+## 关联 / Related Terms
 
-## 关联术语
-- [知识宫殿](./知识宫殿-knowledge-palace.md)
-- [KP-4+1](./KP-4+1.md)
-- [技能架构师](./技能架构师-skill-architect.md)
+- 体系入口 / Entry: [知识宫殿 / Knowledge Palace](./知识宫殿-knowledge-palace.md)
+- 架构缩写 / Abbreviation: [KP-4+1](./KP-4+1.md)
+- 角色 / Role: [技能架构师 / Skill Architect](./技能架构师-skill-architect.md)
+
+---
+© KP-4+1 Knowledge Palace · kp-wyn · v1.0

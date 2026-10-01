@@ -1,25 +1,35 @@
 ---
+id: KP-TERM-044
 term: 连廊结构
 en: Skybridge Structure
-category: 架构类
-level: 跨宫殿
+category: 架构
+synonyms: 跨宫殿连接，殿间通道
+attribution: 知识宫殿原创提出
+created: 2026-09-12
+updated: 2026-10-01
+version: 1.0
+status: 已稳定
 ---
 
 # 连廊结构
 
-> Skybridge Structure
+## 中文
 
-## 一句话定义
-多个知识宫殿之间的连接通道，实现跨宫殿的知识共享与协同。
+多个知识宫殿之间的连接通道，实现跨宫殿的知识共享与协同。企业有多个岗位、多座宫殿，需要跨宫殿共享而不互相吞并。
 
-## 为什么需要这个词
-企业有多个岗位、多座宫殿，需要跨宫殿共享而不互相吞并；连廊让多殿协同成为可能。
+## English
 
-## 典型场景
+Connection channels between multiple Knowledge Palaces, enabling cross-palace knowledge sharing and collaboration. Enterprises have multiple roles and palaces that need to share without merging.
+
+## 典型场景 / Typical Scenarios
+
 - 个人宫殿与企业主宫殿连接
 - 总部与分支机构宫殿协同
 
-## 关联术语
-- [知识围墙](./知识围墙-knowledge-wall.md)
-- [企业级知识宫殿](./企业级知识宫殿-enterprise-knowledge-palace.md)
-- [挂载模块](./挂载模块-mounted-module.md)
+## 关联 / Related Terms
+
+- 边界 / Boundary: [知识围墙 / Knowledge Wall](./知识围墙-knowledge-wall.md)
+- 类型 / Type: [企业级知识宫殿 / Enterprise Knowledge Palace](./企业级知识宫殿-enterprise-knowledge-palace.md)
+
+---
+© KP-4+1 Knowledge Palace · kp-wyn · v1.0

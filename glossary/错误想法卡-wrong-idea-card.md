@@ -1,25 +1,35 @@
 ---
+id: KP-TERM-025
 term: 错误想法卡
 en: Wrong Idea Card
-category: 知识单元类
-level: 卡片类型
+category: 知识单元
+synonyms: KP-ERR，证伪记录卡
+attribution: 知识宫殿原创提出
+created: 2026-09-12
+updated: 2026-10-01
+version: 1.0
+status: 已稳定
 ---
 
 # 错误想法卡
 
-> Wrong Idea Card
+## 中文
 
-## 一句话定义
-记录曾被相信、后被证伪的想法及其证伪过程的卡片，编号前缀 KP-ERR-。
+记录曾被相信、后被证伪的想法及其证伪过程的卡片，编号前缀KP-ERR-。被证伪的想法若不留痕，同样的错会一犯再犯。
 
-## 为什么需要这个词
-被证伪的想法若不留痕，同样的错会一犯再犯；记录证伪过程就是积累判断力。
+## English
 
-## 典型场景
+A card recording ideas once believed but later disproven, along with the disproof process, prefixed KP-ERR-. Without records, disproven ideas get repeated.
+
+## 典型场景 / Typical Scenarios
+
 - 想法验证失败时建卡
 - 认知被推翻时建卡
 
-## 关联术语
-- [知识毒丸库](./知识毒丸库-knowledge-poison-pill-library.md)
-- [候选区](./候选区-candidate-zone.md)
-- [原则卡](./原则卡-principle-card.md)
+## 关联 / Related Terms
+
+- 入库 / Storage: [知识毒丸 / Knowledge Poison Pill](./知识毒丸库-knowledge-poison-pill-library.md)
+- 隔离区 / Zone: [候选区 / Candidate Zone](./候选区-candidate-zone.md)
+
+---
+© KP-4+1 Knowledge Palace · kp-wyn · v1.0

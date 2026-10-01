@@ -1,25 +1,35 @@
 ---
+id: KP-TERM-026
 term: 术语卡
 en: Terminology Card
-category: 知识单元类
-level: 卡片类型
+category: 知识单元
+synonyms: KP-TERM，概念定义卡
+attribution: 知识宫殿原创提出
+created: 2026-09-12
+updated: 2026-10-01
+version: 1.0
+status: 已稳定
 ---
 
 # 术语卡
 
-> Terminology Card
+## 中文
 
-## 一句话定义
-知识宫殿专用概念定义卡，收录体系自造词和核心术语，采用四段式结构：**一句话定义、为什么需要、典型场景、关联术语**。
+知识宫殿专用概念定义卡，收录体系自造词和核心术语，采用四段式结构：一句话定义、为什么需要、典型场景、关联术语。术语是体系对外传播的最小语言单元。
 
-## 为什么需要这个词
-统一术语才能让团队、用户与 AI 对同一概念有一致理解；术语是体系对外传播的最小语言单元。
+## English
 
-## 典型场景
+A card defining Knowledge Palace-specific concepts and terminology, with a four-part structure: one-line definition, why it exists, typical scenarios, and related terms. Terminology is the smallest language unit for external communication.
+
+## 典型场景 / Typical Scenarios
+
 - 为每个体系术语建卡
 - 对外开源术语表
 
-## 关联术语
-- [七要素](./七要素-seven-elements.md)
-- [知识卡](./知识卡-knowledge-card.md)
-- [技能家族](./技能家族-skill-family.md)
+## 关联 / Related Terms
+
+- 基类 / Base: [知识卡 / Knowledge Card](./知识卡-knowledge-card.md)
+- 字段 / Fields: [七要素 / Seven Elements](./七要素-seven-elements.md)
+
+---
+© KP-4+1 Knowledge Palace · kp-wyn · v1.0

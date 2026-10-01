@@ -1,27 +1,38 @@
 ---
+id: KP-TERM-012
 term: 加工层
 en: Processing Layer
-category: 架构类
-level: 第三层
+category: 架构
+synonyms: 提取层，蒸馏层
+attribution: 知识宫殿原创提出
+created: 2026-09-12
+updated: 2026-10-01
+version: 1.0
+status: 已稳定
 ---
 
 # 加工层
 
-> Processing Layer
+## 中文
 
-## 一句话定义
-知识宫殿的第三层，负责知识的提取、激活、迁移、组合创新与经验萃取。
+知识宫殿的第三层，负责知识的提取、激活、迁移、组合创新与经验萃取。只摘不炼，素材越攒越多却长不出能力；这一层把"看过"变成"会用"。
 
-## 为什么需要这个词
-加工决定能不能真正消化。只摘不炼，素材越攒越多却长不出能力；这一层把“看过”变成“会用”。
+## English
 
-## 典型场景
+The third floor, responsible for extracting, activating, transferring, and distilling knowledge and experience. Collecting without processing just accumulates materials without building capability. This floor turns "I read it" into "I can use it."
+
+## 典型场景 / Typical Scenarios
+
 - 提取知识卡、跨域迁移、组合创新
 - 把项目经验萃取成经验卡
 - 蒸馏可挂载技能
 
-## 关联术语
-- [调控层](./调控层-regulation-floor.md)
-- [经验卡](./经验卡-experience-card.md)
-- [流水线技能](./流水线技能-pipeline-skill.md)
-- [候选区](./候选区-candidate-zone.md)
+## 关联 / Related Terms
+
+- 上一层 / Previous: [结构层 / Structure Layer](./结构层-structure-floor.md)
+- 下一层 / Next: [调控层 / Regulation Layer](./调控层-regulation-floor.md)
+- 经验萃取 / Experience: [经验卡 / Experience Card](./经验卡-experience-card.md)
+- 技能产出 / Skill: [流水线技能 / Pipeline Skill](./流水线技能-pipeline-skill.md)
+
+---
+© KP-4+1 Knowledge Palace · kp-wyn · v1.0

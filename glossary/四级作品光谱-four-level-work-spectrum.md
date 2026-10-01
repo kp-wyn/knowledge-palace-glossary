@@ -1,25 +1,37 @@
 ---
+id: KP-TERM-055
 term: 四级作品光谱
 en: Four-Level Work Spectrum
-category: AI协同类
-level: 归属标尺
+category: AI协同
+synonyms: 作品归属标尺，AI参与度分级
+attribution: 知识宫殿原创提出
+created: 2026-09-12
+updated: 2026-10-01
+version: 1.0
+status: 已稳定
 ---
 
 # 四级作品光谱
 
-> Four-Level Work Spectrum
+## 中文
 
-## 一句话定义
-按 AI 参与程度把作品分为四级：人写、人主 AI 辅、AI 主人辅、AI 写，用于界定作品归属与责任。
+按AI参与程度把作品分为四级：人写、人主AI辅、AI主人辅、AI写（对应知识黑盒/盲盒/白盒/明盒）。用于界定作品归属与责任。
 
-## 为什么需要这个词
-AI 参与创作越来越普遍，必须区分每级作品的归属、署名与责任，避免权属与责任模糊。
+## English
 
-## 典型场景
-- 判断作品 AI 参与程度
+Classifies work into four levels by AI involvement: human-written, human-led with AI assist, AI-led with human assist, and AI-written (corresponding to black/ blind/ white/ clear box). Defines authorship and responsibility.
+
+## 典型场景 / Typical Scenarios
+
+- 判断作品AI参与程度
 - 确定署名方式与责任
 
-## 关联术语
-- [责任锚定](./责任锚定-responsibility-anchoring.md)
-- [人类验收](./人类验收-human-verification.md)
-- [知识治理](./知识治理-knowledge-governance.md)
+## 关联 / Related Terms
+
+- 黑盒 / Black: [知识黑盒 / Knowledge Black Box](./知识黑盒-knowledge-black-box.md)
+- 盲盒 / Blind: [知识盲盒 / Knowledge Blind Box](./知识盲盒-knowledge-blind-box.md)
+- 白盒 / White: [知识白盒 / Knowledge White Box](./知识白盒-knowledge-white-box.md)
+- 明盒 / Clear: [知识明盒 / Knowledge Clear Box](./知识明盒-knowledge-clear-box.md)
+
+---
+© KP-4+1 Knowledge Palace · kp-wyn · v1.0

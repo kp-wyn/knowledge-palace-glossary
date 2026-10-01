@@ -1,24 +1,34 @@
 ---
+id: KP-TERM-054
 term: 学习路径
 en: Learning Path
-category: 知识单元类
-level: 卡片字段
+category: 知识单元
+synonyms: 进阶路线，前置知识链
+attribution: 知识宫殿原创提出
+created: 2026-09-12
+updated: 2026-10-01
+version: 1.0
+status: 已稳定
 ---
 
 # 学习路径
 
-> Learning Path
+## 中文
 
-## 一句话定义
-知识卡的附加字段，标注学习该知识的前置知识与延伸阅读，把孤立卡片串成进阶路线。
+知识卡的附加字段，标注学习该知识的前置知识与延伸阅读，把孤立卡片串成进阶路线。单张卡无法说明先学什么再学什么；路径让知识有先后、可循序渐进。
 
-## 为什么需要这个词
-单张卡无法说明“先学什么、再学什么”；路径让知识有先后、可循序渐进。
+## English
 
-## 典型场景
+An additional field on knowledge cards marking prerequisites and extensions, chaining isolated cards into a progressive route. Single cards can't show what to learn first; paths make knowledge ordered and progressive.
+
+## 典型场景 / Typical Scenarios
+
 - 为一个领域规划前置→核心→进阶卡片链
 
-## 关联术语
-- [掌握程度](./掌握程度-mastery-level.md)
-- [双向链接](./双向链接-bidirectional-link.md)
-- [知识卡](./知识卡-knowledge-card.md)
+## 关联 / Related Terms
+
+- 基类 / Base: [知识卡 / Knowledge Card](./知识卡-knowledge-card.md)
+- 连接 / Link: [双向链接 / Bidirectional Link](./双向链接-bidirectional-link.md)
+
+---
+© KP-4+1 Knowledge Palace · kp-wyn · v1.0
