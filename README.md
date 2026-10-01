@@ -8,13 +8,13 @@ The **linguistic foundation** of the Knowledge Palace: this repo collects the co
 
 Currently publishing **68** terms (68 cards).
 
-## 总览
+## 总览 / Overview
 
 - [知识宫殿 · Knowledge Palace](./glossary/知识宫殿-knowledge-palace.md)
-- [KP-4+1 · KP-4+1](./glossary/KP-4+1.md)
+- [KP-4+1](./glossary/KP-4+1.md)
 - [知识宫殿法 · Knowledge Palace Method](./glossary/知识宫殿法-knowledge-palace-method.md)
 
-## 一、架构类（18）
+## 一、架构类 / Architecture（18）
 
 - [地基层 · Foundation Layer](./glossary/地基层-foundation-floor.md)
 - [结构层 · Structure Layer](./glossary/结构层-structure-floor.md)
@@ -35,7 +35,7 @@ Currently publishing **68** terms (68 cards).
 - [信息节食 · Information Diet](./glossary/信息节食-information-diet.md)
 - [看板（Dashboard） · Dashboard](./glossary/看板-dashboard.md)
 
-## 二、质检类（12）
+## 二、质检类 / Quality Control（12）
 
 - [三验一密 · Three Verifications and One Encryption](./glossary/三验一密-three-verifications-one-encryption.md)
 - [验真（知识地标） · Verify Truth](./glossary/验真-verify-truth.md)
@@ -50,7 +50,7 @@ Currently publishing **68** terms (68 cards).
 - [知识地标 · Knowledge Landmark](./glossary/知识地标-knowledge-landmark.md)
 - [知识幕布 · Knowledge Veil](./glossary/知识幕布-knowledge-veil.md)
 
-## 三、知识单元类（7）
+## 三、知识单元类 / Knowledge Units（7）
 
 - [知识卡 · Knowledge Card](./glossary/知识卡-knowledge-card.md)
 - [知识元 · Knowledge Atom](./glossary/知识元-knowledge-atom.md)
@@ -60,7 +60,7 @@ Currently publishing **68** terms (68 cards).
 - [错误想法卡 · Wrong Idea Card](./glossary/错误想法卡-wrong-idea-card.md)
 - [术语卡 · Terminology Card](./glossary/术语卡-terminology-card.md)
 
-## 四、技能与模块类（5）
+## 四、技能与模块类 / Skills & Modules（5）
 
 - [挂载技能 · Mounted Skill](./glossary/挂载技能-mounted-skill.md)
 - [知识技能模块 · Knowledge Skill Module](./glossary/知识技能模块-knowledge-skill-module.md)
@@ -68,7 +68,7 @@ Currently publishing **68** terms (68 cards).
 - [技能架构师 · Skill Architect](./glossary/技能架构师-skill-architect.md)
 - [技能家族 · Skill Family](./glossary/技能家族-skill-family.md)
 
-## 五、AI协同类（13）
+## 五、AI协同类 / AI Collaboration（13）
 
 - [知识黑盒 · Knowledge Black Box](./glossary/知识黑盒-knowledge-black-box.md)
 - [知识盲盒 · Knowledge Blind Box](./glossary/知识盲盒-knowledge-blind-box.md)
@@ -84,7 +84,7 @@ Currently publishing **68** terms (68 cards).
 - [知识治理 · Knowledge Governance](./glossary/知识治理-knowledge-governance.md)
 - [掌握度5级 · Mastery 5 Levels](./glossary/掌握度5级-mastery-5-levels.md)
 
-## 六、价值类（10）
+## 六、价值类 / Value（10）
 
 - [双闭环咬合 · Dual-Loop Meshing](./glossary/双闭环咬合-dual-loop-meshing.md)
 - [场景闭环 · Scenario Loop](./glossary/场景闭环-scenario-loop.md)
@@ -103,5 +103,6 @@ Currently publishing **68** terms (68 cards).
 Terminology is governed by the Knowledge Palace Glossary.
 
 方法论详见[知识宫殿白皮书](https://github.com/kp-wyn/knowledge-palace)。
+Methodology details: [Knowledge Palace Whitepaper](https://github.com/kp-wyn/knowledge-palace).
 
 Copyright (c) 2026 王亚宁 (kp-wyn)  ·  Licensed under MIT
