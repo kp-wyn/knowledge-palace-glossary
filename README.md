@@ -4,12 +4,13 @@
 这里收录知识宫殿体系的全部核心术语，每个术语一张**五段式术语卡**——
 术语名（中/英）、为什么需要这个词、典型场景、怎么用·怎么升级、关联术语。
 
-共 **77** 个术语（77 张术语卡）。
+共 **78** 个术语（78 张术语卡）。
 
 ## 总览
 
 - [知识宫殿 · Knowledge Palace](./glossary/knowledge-palace.md)
 - [KP-4+1 · KP-4+1](./glossary/kp-4-plus-1.md)
+- [知识宫殿法 · Knowledge Palace Method](./glossary/knowledge-palace-method.md)
 
 ## 一、架构类（18）
 
