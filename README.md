@@ -9,7 +9,7 @@
 ## 总览
 
 - [知识宫殿 · Knowledge Palace](./glossary/knowledge-palace.md)
-- [KP-4+1 · KP-4+1](./glossary/kp-4-plus-1.md)
+- [KP-4+1 · KP-4+1](./glossary/KP-4+1.md)
 - [知识宫殿法 · Knowledge Palace Method](./glossary/knowledge-palace-method.md)
 
 ## 一、架构类（18）

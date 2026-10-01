@@ -39,7 +39,7 @@ AI 时代最大的浪费不是“我不会用 AI”，而是“我的经验只�
 - **+1 人机协同层**：AI 做执行，人做决策和验收
 
 ## 关联术语
-- [KP-4+1](./kp-4-plus-1.md)
+- [KP-4+1](./KP-4+1.md)
 - [知识宫殿法](./knowledge-palace-method.md)
 - [三验一密](./three-verifications-one-encryption.md)
 - [知识卡](./knowledge-card.md)

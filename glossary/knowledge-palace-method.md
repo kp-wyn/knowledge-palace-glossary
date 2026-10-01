@@ -34,5 +34,5 @@ level: 方法论
 
 ## 关联术语
 - [知识宫殿](./knowledge-palace.md)
-- [KP-4+1](./kp-4-plus-1.md)
+- [KP-4+1](./KP-4+1.md)
 - [技能架构师](./skill-architect.md)
