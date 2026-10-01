@@ -18,12 +18,7 @@ level: 清单文件
 ## 典型场景
 - 新建裙房或模块时编写 manifest
 
-## 怎么用 · 怎么升级
-- 声明名称、类型、接入方式、依赖与规则
-- 与版权库映射
-- 作为挂载与卸载依据
-
 ## 关联术语
-- [挂载模块](./mounted-module.md)
-- [KP-Annex](./kp-annex.md)
-- [知识宫殿裙房模块](./palace-annex-module.md)
+- [挂载模块](./挂载模块-mounted-module.md)
+- [KP-Annex](./KP-Annex.md)
+- [知识宫殿裙房模块](./知识宫殿裙房模块-palace-annex-module.md)
