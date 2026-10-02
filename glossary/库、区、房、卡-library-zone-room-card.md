@@ -3,10 +3,10 @@ id: KP-TERM-067
 term: 库、区、房、卡
 en: Library-Zone-Room-Card
 category: 架构 / Architecture
-synonyms: 四级分类口径 / Four-Level Classification，分层结构 / Hierarchical Structure
+synonyms: 四级分类口径 / Four-Level Classification，分层结构 / Hierarchical Structure，库（repository）/ Library (Repository)
 attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
-updated: 2026-10-01
+updated: 2026-10-02
 version: 1.0
 status: 已稳定 / Stable
 ---

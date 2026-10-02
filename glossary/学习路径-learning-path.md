@@ -3,10 +3,10 @@ id: KP-TERM-054
 term: 学习路径
 en: Learning Path
 category: 知识单元 / Knowledge Units
-synonyms: 进阶路线 / Progression Path，前置知识链 / Prerequisite Chain
+synonyms: 进阶路线 / Progression Path，前置知识链 / Prerequisite Chain，学习历程 / Learning Journey
 attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
-updated: 2026-10-01
+updated: 2026-10-02
 version: 1.0
 status: 已稳定 / Stable
 ---
