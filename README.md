@@ -50,7 +50,7 @@ Currently publishing **71** terms (71 cards).
 - [知识地标 · Knowledge Landmark](./glossary/知识地标-knowledge-landmark.md)
 - [知识幕布 · Knowledge Veil](./glossary/知识幕布-knowledge-veil.md)
 
-## 三、知识单元类 / Knowledge Units（8）
+## 三、知识单元类 / Knowledge Units（9）
 
 - [知识卡 · Knowledge Card](./glossary/知识卡-knowledge-card.md)
 - [知识元 · Knowledge Atom](./glossary/知识元-knowledge-atom.md)
@@ -60,6 +60,7 @@ Currently publishing **71** terms (71 cards).
 - [错误想法卡 · Wrong Idea Card](./glossary/错误想法卡-wrong-idea-card.md)
 - [术语卡 · Terminology Card](./glossary/术语卡-terminology-card.md)
 - [上手指引 · Onboarding](./glossary/上手指引-onboarding.md)
+- [上下文卡 · Context Card](./glossary/上下文卡-context-card.md)
 
 ## 四、技能与模块类 / Skills & Modules（6）
 
@@ -70,7 +71,7 @@ Currently publishing **71** terms (71 cards).
 - [技能家族 · Skill Family](./glossary/技能家族-skill-family.md)
 - [工作流 · Workflow](./glossary/工作流-workflow.md)
 
-## 五、AI协同类 / AI Collaboration（14）
+## 五、AI协同类 / AI Collaboration（13）
 
 - [知识黑盒 · Knowledge Black Box](./glossary/知识黑盒-knowledge-black-box.md)
 - [知识盲盒 · Knowledge Blind Box](./glossary/知识盲盒-knowledge-blind-box.md)
@@ -85,7 +86,6 @@ Currently publishing **71** terms (71 cards).
 - [四级作品光谱 · Four-Level Work Spectrum](./glossary/四级作品光谱-four-level-work-spectrum.md)
 - [知识治理 · Knowledge Governance](./glossary/知识治理-knowledge-governance.md)
 - [掌握度5级 · Mastery 5 Levels](./glossary/掌握度5级-mastery-5-levels.md)
-- [上下文 · Context](./glossary/上下文-context.md)
 
 ## 六、价值类 / Value（10）
 
