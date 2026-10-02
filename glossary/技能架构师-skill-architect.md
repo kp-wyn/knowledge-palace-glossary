@@ -3,11 +3,11 @@ id: KP-TERM-008
 term: 技能架构师
 en: Skill Architect
 category: 角色 / Role
-synonyms: AI技能架构师 / AI Skill Architect，知识宫殿架构师 / Knowledge Palace Architect
+synonyms: AI技能架构师 / AI Skill Architect
 attribution: 知识宫殿体系原创提出 / Original to Knowledge Palace System
 created: 2026-09-12
-updated: 2026-10-01
-version: 1.0
+updated: 2026-10-03
+version: 1.1
 status: 已稳定 / Stable
 ---
 
@@ -32,6 +32,7 @@ In the AI era, a role that transforms real business and knowledge-scenario probl
 - [流水线技能 / Pipeline Skill](./流水线技能-pipeline-skill.md)
 - [挂载技能 / Mounted Skill](./挂载技能-mounted-skill.md)
 - [知识技能模块 / Knowledge Skill Module](./知识技能模块-knowledge-skill-module.md)
+- [宫殿架构师 / Palace Architect（升阶职业 Lv.4）](./宫殿架构师-palace-architect.md)
 
 ---
 © KP-4+1 Knowledge Palace · kp-wyn · v1.0

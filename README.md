@@ -2,11 +2,11 @@
 
 知识宫殿的**语言地基**：这里收录知识宫殿体系的核心术语，每个术语一张术语名（中/英）、在知识宫殿体系是怎么定义、为什么需要这个词、典型场景、怎么用·怎么升级、关联术语。
 
-目前对外发布 **71** 个术语（71 张术语卡）。
+目前对外发布 **72** 个术语（72 张术语卡）。
 
 The **linguistic foundation** of the Knowledge Palace: this repo collects the core terminology of the system. Each term has a card with: bilingual name, definition within the system, why it exists, typical scenarios, usage & evolution, and related terms.
 
-Currently publishing **71** terms (71 cards).
+Currently publishing **72** terms (72 cards).
 
 ## 总览 / Overview
 
@@ -62,12 +62,13 @@ Currently publishing **71** terms (71 cards).
 - [上手指引 · Onboarding](./glossary/上手指引-onboarding.md)
 - [上下文卡 · Context Card](./glossary/上下文卡-context-card.md)
 
-## 四、技能与模块类 / Skills & Modules（6）
+## 四、技能与模块类 / Skills & Modules（7）
 
 - [挂载技能 · Mounted Skill](./glossary/挂载技能-mounted-skill.md)
 - [知识技能模块 · Knowledge Skill Module](./glossary/知识技能模块-knowledge-skill-module.md)
 - [流水线技能 · Pipeline Skill](./glossary/流水线技能-pipeline-skill.md)
 - [技能架构师 · Skill Architect](./glossary/技能架构师-skill-architect.md)
+- [宫殿架构师 · Palace Architect](./glossary/宫殿架构师-palace-architect.md)
 - [技能家族 · Skill Family](./glossary/技能家族-skill-family.md)
 - [工作流 · Workflow](./glossary/工作流-workflow.md)
 
