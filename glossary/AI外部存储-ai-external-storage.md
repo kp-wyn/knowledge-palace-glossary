@@ -4,7 +4,7 @@ term: AI外部存储
 en: AI External Storage
 category: AI协同 / AI Collaboration
 synonyms: 外挂存储 / External Storage，外部索引 / External Index
-attribution: 知识宫殿原创提出 / Original to Knowledge Palace
+attribution: 知识宫殿体系重新释义 / Redefined within Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0

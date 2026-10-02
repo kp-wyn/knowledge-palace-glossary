@@ -4,7 +4,7 @@ term: 人类验收
 en: Human Verification
 category: AI协同 / AI Collaboration
 synonyms: 人工终审 / Human Final Review，人工确认 / Human Confirmation
-attribution: 知识宫殿原创提出 / Original to Knowledge Palace
+attribution: 知识宫殿体系重新释义 / Redefined within Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0

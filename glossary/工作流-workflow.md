@@ -4,7 +4,7 @@ term: 工作流
 en: Workflow
 category: 技能与模块 / Skills & Modules
 synonyms: 流程 / Process，作业流程 / Operating Procedure
-attribution: 知识宫殿原创提出 / Original to Knowledge Palace
+attribution: 知识宫殿体系重新释义 / Redefined within Knowledge Palace
 created: 2026-10-02
 updated: 2026-10-02
 version: 1.0

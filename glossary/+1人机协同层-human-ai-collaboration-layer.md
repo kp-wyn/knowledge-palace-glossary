@@ -4,7 +4,7 @@ term: 人机协同层
 en: Human-AI Collaboration Layer (+1)
 category: 架构 / Architecture
 synonyms: +1层 / +1 Layer，人机协同 / Human-AI Collaboration
-attribution: 知识宫殿原创提出 / Original to Knowledge Palace
+attribution: 知识宫殿体系重新释义 / Redefined within Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0

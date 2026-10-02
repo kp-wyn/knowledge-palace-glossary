@@ -4,7 +4,7 @@ term: AI人机协同
 en: AI-Human Collaboration
 category: AI协同 / AI Collaboration
 synonyms: 人机协作 / Human-AI Cooperation，人机分工 / Human-AI Division，AI驱动协同 / AI-Powered Collaboration
-attribution: 知识宫殿原创提出 / Original to Knowledge Palace
+attribution: 知识宫殿体系重新释义 / Redefined within Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-02
 version: 1.0

@@ -4,7 +4,7 @@ term: 掌握程度
 en: Mastery Level
 category: 知识单元 / Knowledge Units
 synonyms: 掌握等级 / Mastery Level，卡片自评 / Card Self-Rating
-attribution: 知识宫殿原创提出 / Original to Knowledge Palace
+attribution: 知识宫殿体系重新释义 / Redefined within Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0

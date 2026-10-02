@@ -4,7 +4,7 @@ term: 信息节食
 en: Information Diet
 category: 架构 / Architecture
 synonyms: 信息源治理 / Source Governance，信息摄入控制 / Input Control
-attribution: 知识宫殿原创提出 / Original to Knowledge Palace
+attribution: 知识宫殿体系重新释义 / Redefined within Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0

@@ -4,7 +4,7 @@ term: AI时代体系感
 en: Systems Sense in the AI Era
 category: 价值 / Value
 synonyms: 体系感 / Systems Sense，全局把握 / Holistic View
-attribution: 知识宫殿原创提出 / Original to Knowledge Palace
+attribution: 知识宫殿体系重新释义 / Redefined within Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0

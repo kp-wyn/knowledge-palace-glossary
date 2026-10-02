@@ -4,7 +4,7 @@ term: 上手指引
 en: Onboarding
 category: 知识单元 / Knowledge Units
 synonyms: 新手引导 / Getting Started，进殿指引 / First-Step Guide
-attribution: 知识宫殿原创提出 / Original to Knowledge Palace
+attribution: 知识宫殿体系重新释义 / Redefined within Knowledge Palace
 created: 2026-10-02
 updated: 2026-10-02
 version: 1.0

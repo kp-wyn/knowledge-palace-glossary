@@ -4,7 +4,7 @@ term: AI陪练
 en: AI Training Partner
 category: AI协同 / AI Collaboration
 synonyms: AI反方 / AI Devil's Advocate，AI对手 / AI Sparring Partner
-attribution: 知识宫殿原创提出 / Original to Knowledge Palace
+attribution: 知识宫殿体系重新释义 / Redefined within Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0

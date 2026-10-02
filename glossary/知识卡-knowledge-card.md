@@ -4,7 +4,7 @@ term: 知识卡
 en: Knowledge Card
 category: 知识单元 / Knowledge Units
 synonyms: KP-CARD，知识点卡片 / Knowledge Point Card
-attribution: 知识宫殿原创提出 / Original to Knowledge Palace
+attribution: 知识宫殿体系重新释义 / Redefined within Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0

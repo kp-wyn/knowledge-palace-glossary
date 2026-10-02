@@ -4,7 +4,7 @@ term: 知识治理
 en: Knowledge Governance
 category: 管理 / Management
 synonyms: 知识管理 / Knowledge Management，全生命周期治理 / Full Lifecycle Governance
-attribution: 知识宫殿原创提出 / Original to Knowledge Palace
+attribution: 知识宫殿体系重新释义 / Redefined within Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0

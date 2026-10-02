@@ -4,7 +4,7 @@ term: 看板
 en: Dashboard
 category: 架构 / Architecture
 synonyms: 总控台 / Control Tower，可视化看板 / Visual Dashboard
-attribution: 知识宫殿原创提出 / Original to Knowledge Palace
+attribution: 知识宫殿体系重新释义 / Redefined within Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0

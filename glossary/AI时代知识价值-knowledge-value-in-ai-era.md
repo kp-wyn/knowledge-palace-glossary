@@ -4,7 +4,7 @@ term: AI时代知识价值
 en: Knowledge Value in the AI Era
 category: 价值 / Value
 synonyms: 知识价值迁移 / Knowledge Value Transfer，价值主张 / Value Proposition
-attribution: 知识宫殿原创提出 / Original to Knowledge Palace
+attribution: 知识宫殿体系重新释义 / Redefined within Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0

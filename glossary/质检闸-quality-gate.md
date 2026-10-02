@@ -4,7 +4,7 @@ term: 质检闸
 en: Quality Gate
 category: 质检 / Quality Control
 synonyms: 强制关口 / Mandatory Gate，输出闸门 / Output Gate
-attribution: 知识宫殿原创提出 / Original to Knowledge Palace
+attribution: 知识宫殿体系重新释义 / Redefined within Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01
 version: 1.0
