@@ -2,11 +2,11 @@
 
 知识宫殿的**语言地基**：这里收录知识宫殿体系的核心术语，每个术语一张术语名（中/英）、在知识宫殿体系是怎么定义、为什么需要这个词、典型场景、怎么用·怎么升级、关联术语。
 
-目前对外发布 **68** 个术语（68 张术语卡）。
+目前对外发布 **71** 个术语（71 张术语卡）。
 
 The **linguistic foundation** of the Knowledge Palace: this repo collects the core terminology of the system. Each term has a card with: bilingual name, definition within the system, why it exists, typical scenarios, usage & evolution, and related terms.
 
-Currently publishing **68** terms (68 cards).
+Currently publishing **71** terms (71 cards).
 
 ## 总览 / Overview
 
@@ -50,7 +50,7 @@ Currently publishing **68** terms (68 cards).
 - [知识地标 · Knowledge Landmark](./glossary/知识地标-knowledge-landmark.md)
 - [知识幕布 · Knowledge Veil](./glossary/知识幕布-knowledge-veil.md)
 
-## 三、知识单元类 / Knowledge Units（7）
+## 三、知识单元类 / Knowledge Units（8）
 
 - [知识卡 · Knowledge Card](./glossary/知识卡-knowledge-card.md)
 - [知识元 · Knowledge Atom](./glossary/知识元-knowledge-atom.md)
@@ -59,16 +59,18 @@ Currently publishing **68** terms (68 cards).
 - [候选区 · Candidate Zone](./glossary/候选区-candidate-zone.md)
 - [错误想法卡 · Wrong Idea Card](./glossary/错误想法卡-wrong-idea-card.md)
 - [术语卡 · Terminology Card](./glossary/术语卡-terminology-card.md)
+- [上手指引 · Onboarding](./glossary/上手指引-onboarding.md)
 
-## 四、技能与模块类 / Skills & Modules（5）
+## 四、技能与模块类 / Skills & Modules（6）
 
 - [挂载技能 · Mounted Skill](./glossary/挂载技能-mounted-skill.md)
 - [知识技能模块 · Knowledge Skill Module](./glossary/知识技能模块-knowledge-skill-module.md)
 - [流水线技能 · Pipeline Skill](./glossary/流水线技能-pipeline-skill.md)
 - [技能架构师 · Skill Architect](./glossary/技能架构师-skill-architect.md)
 - [技能家族 · Skill Family](./glossary/技能家族-skill-family.md)
+- [工作流 · Workflow](./glossary/工作流-workflow.md)
 
-## 五、AI协同类 / AI Collaboration（13）
+## 五、AI协同类 / AI Collaboration（14）
 
 - [知识黑盒 · Knowledge Black Box](./glossary/知识黑盒-knowledge-black-box.md)
 - [知识盲盒 · Knowledge Blind Box](./glossary/知识盲盒-knowledge-blind-box.md)
@@ -83,6 +85,7 @@ Currently publishing **68** terms (68 cards).
 - [四级作品光谱 · Four-Level Work Spectrum](./glossary/四级作品光谱-four-level-work-spectrum.md)
 - [知识治理 · Knowledge Governance](./glossary/知识治理-knowledge-governance.md)
 - [掌握度5级 · Mastery 5 Levels](./glossary/掌握度5级-mastery-5-levels.md)
+- [上下文 · Context](./glossary/上下文-context.md)
 
 ## 六、价值类 / Value（10）
 
