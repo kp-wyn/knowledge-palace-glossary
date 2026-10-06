@@ -6,12 +6,14 @@ category: 角色 / Role
 synonyms: 知识宫殿架构师 / Knowledge Palace Architect，组织知识操作系统架构师 / Organizational Knowledge OS Architect
 attribution: 知识宫殿体系原创提出 / Original to Knowledge Palace System
 created: 2026-10-03
-updated: 2026-10-03
-version: 1.0
+updated: 2026-10-06
+version: 1.1
 status: 已稳定 / Stable
 ---
 
 # 宫殿架构师
+
+> **名称说明 / Naming**：宫殿架构师，也叫**知识宫殿架构师**（Knowledge Palace Architect）——同一位角色的两个叫法，可互换使用。“宫殿架构师”是简称；“知识宫殿架构师”把设计对象“知识宫殿”直接点明。英文简称 Palace Architect，全称 Knowledge Palace Architect。
 
 ## 中文
 
@@ -55,4 +57,4 @@ status: 已稳定 / Stable
 - [工作流 · Workflow](./工作流-workflow.md)
 
 ---
-© KP-4+1 Knowledge Palace · kp-wyn · v1.0
+© KP-4+1 Knowledge Palace · kp-wyn · v1.1
