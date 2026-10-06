@@ -2,11 +2,11 @@
 
 知识宫殿的**语言地基**：这里收录知识宫殿体系的核心术语，每个术语一张术语名（中/英）、在知识宫殿体系是怎么定义、为什么需要这个词、典型场景、怎么用·怎么升级、关联术语。
 
-目前对外发布 **76** 个术语（76 张术语卡）。
+目前对外发布 **82** 个术语（82 张术语卡）。
 
 The **linguistic foundation** of the Knowledge Palace: this repo collects the core terminology of the system. Each term has a card with: bilingual name, definition within the system, why it exists, typical scenarios, usage & evolution, and related terms.
 
-Currently publishing **76** terms (76 cards).
+Currently publishing **82** terms (82 cards).
 
 ## 总览 / Overview
 
@@ -14,7 +14,7 @@ Currently publishing **76** terms (76 cards).
 - [KP-4+1](./glossary/KP-4+1.md)
 - [知识宫殿法 · Knowledge Palace Method](./glossary/知识宫殿法-knowledge-palace-method.md)
 
-## 一、架构类 / Architecture（18）
+## 一、架构类 / Architecture（20）
 
 - [地基层 · Foundation Layer](./glossary/地基层-foundation-floor.md)
 - [结构层 · Structure Layer](./glossary/结构层-structure-floor.md)
@@ -34,6 +34,8 @@ Currently publishing **76** terms (76 cards).
 - [双向链接 · Bidirectional Link](./glossary/双向链接-bidirectional-link.md)
 - [信息节食 · Information Diet](./glossary/信息节食-information-diet.md)
 - [看板（Dashboard） · Dashboard](./glossary/看板-dashboard.md)
+- [私有部署 · Private Deployment](./glossary/私有部署-private-deployment.md)
+- [Token · Token](./glossary/Token-token.md)
 
 ## 二、质检类 / Quality Control（12）
 
@@ -62,7 +64,7 @@ Currently publishing **76** terms (76 cards).
 - [上手指引 · Onboarding](./glossary/上手指引-onboarding.md)
 - [上下文卡 · Context Card](./glossary/上下文卡-context-card.md)
 
-## 四、技能与模块类 / Skills & Modules（11）
+## 四、技能、模块与治理 / Skills, Modules & Governance（15）
 
 - [挂载技能 · Mounted Skill](./glossary/挂载技能-mounted-skill.md)
 - [知识技能模块 · Knowledge Skill Module](./glossary/知识技能模块-knowledge-skill-module.md)
@@ -75,6 +77,10 @@ Currently publishing **76** terms (76 cards).
 - [技能治理层 · Skill Governance Layer](./glossary/技能治理层-skill-governance-layer.md)
 - [技能资产清单 · Skill Asset Inventory](./glossary/技能资产清单-skill-asset-inventory.md)
 - [技能生命周期管理 · Skill Lifecycle Management](./glossary/技能生命周期管理-skill-lifecycle-management.md)
+- [企业三层权限体系 · Enterprise Three-Layer Permission System](./glossary/企业三层权限体系-enterprise-three-layer-permission.md)
+- [全链路审计 · Full-Chain Audit](./glossary/全链路审计-full-chain-audit.md)
+- [治理控制面看板 · Governance Control Plane](./glossary/治理控制面看板-governance-control-plane.md)
+- [Agent失控 · Agent Runaway](./glossary/Agent失控-agent-runaway.md)
 
 ## 五、AI协同类 / AI Collaboration（13）
 
@@ -94,13 +100,13 @@ Currently publishing **76** terms (76 cards).
 
 ## 六、价值类 / Value（10）
 
-- [双闭环咬合 · Dual-Loop Meshing](./glossary/双闭环咬合-dual-loop-mesh.md)
+- [双闭环咬合 · Dual-Loop Meshing](./glossary/双闭环咬合-dual-loop-meshing.md)
 - [场景闭环 · Scenario Loop](./glossary/场景闭环-scenario-loop.md)
 - [技能闭环 · Skill Loop](./glossary/技能闭环-skill-loop.md)
 - [价值飞轮 · Value Flywheel](./glossary/价值飞轮-value-flywheel.md)
 - [AI时代判断力 · Judgment in the AI Era](./glossary/AI时代判断力-judgment-in-ai-era.md)
 - [AI时代体系感 · Systems Sense in the AI Era](./glossary/AI时代体系感-systems-thinking-in-ai-era.md)
-- [AI时代知识价值 · Knowledge Value in the AI Era](./glossary/AI时代知识价值-knowledge-value-in-ai-era.md)
+- [AI时代知识价值 · Knowledge Value in the AI Era](./glossary/AI时代知识价值-knowledge-in-ai-era.md)
 - [个人知识宫殿 · Personal Knowledge Palace](./glossary/个人知识宫殿-personal-knowledge-palace.md)
 - [专家级知识宫殿 · Expert Knowledge Palace](./glossary/专家级知识宫殿-expert-knowledge-palace.md)
 - [企业级知识宫殿 · Enterprise Knowledge Palace](./glossary/企业级知识宫殿-enterprise-knowledge-palace.md)

@@ -3,7 +3,7 @@ id: KP-TERM-049
 term: 个人知识宫殿
 en: Personal Knowledge Palace
 category: 宫殿类型 / Palace Types
-synonyms: 个人KP / Personal KP，个人知识系统 / Personal Knowledge System
+synonyms: 个人KP / Personal KP，个人知识系统 / Personal Knowledge System，私人宫殿 / Private Palace
 attribution: 知识宫殿原创提出 / Original to Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01

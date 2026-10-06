@@ -3,7 +3,7 @@ id: KP-TERM-060
 term: 质检闸
 en: Quality Gate
 category: 质检 / Quality Control
-synonyms: 强制关口 / Mandatory Gate，输出闸门 / Output Gate
+synonyms: 强制关口 / Mandatory Gate，输出闸门 / Output Gate，质量门禁
 attribution: 知识宫殿体系重新释义 / Redefined within Knowledge Palace
 created: 2026-09-12
 updated: 2026-10-01

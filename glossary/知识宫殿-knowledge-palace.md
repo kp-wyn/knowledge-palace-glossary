@@ -3,11 +3,11 @@ id: KP-TERM-005
 term: 知识宫殿
 en: Knowledge Palace
 category: 架构 / Architecture
-synonyms: KP，个人知识操作系统 / Personal Knowledge OS
+synonyms: KP，AI 操作系统 / AI Operating System，个人知识操作系统 / Personal Knowledge OS，组织知识操作系统 / Organizational Knowledge OS，个人 AI 工作平台 / Personal AI Workbench
 attribution: 知识宫殿体系重新释义 / Redefined within Knowledge Palace (original term exists in Zhang Meng's efficiency handbook and memory techniques; this system gives it new meaning)
 created: 2026-09-12
-updated: 2026-10-01
-version: 1.0
+updated: 2026-10-06
+version: 1.1
 status: 已稳定 / Stable
 ---
 
@@ -25,6 +25,19 @@ A personal and organizational knowledge operating system — turning experience,
 
 Difference from Memory Palace: Memory Palace is for remembering more; Knowledge Palace is for letting AI call your experience to deliver work.
 
+## 标准说法与版本形态 / Standard Framing & Editions
+
+**标准说法（按受众分层）/ Standard framing (layered by audience):**
+
+- 体系内核、企业 (B)、BP、书籍：**知识宫殿 = 企业级 AI 操作系统** / System core, enterprise (B), BP and books: **Knowledge Palace = enterprise AI operating system**
+- 技术交流：AI 基础设施（模型＋技能＋知识库＋治理）/ Technical contexts: AI infrastructure (models + skills + knowledge base + governance)
+- 个人 (C) 推广：**个人 AI 工作平台**（不称“操作系统”）/ Individual (C) promotion: **personal AI workbench** (not called an “operating system”)
+
+**版本形态 / Editions:**
+
+- 个人版＝个人知识操作系统（对外称个人 AI 工作平台）/ Personal edition = personal knowledge OS (externally “personal AI workbench”)
+- 组织版＝组织知识操作系统（企业级 AI 操作系统）/ Organizational edition = organizational knowledge OS (enterprise AI operating system)
+
 ## 典型场景 / Typical Scenarios
 
 - 做了10年以上、脑子里有货但没沉淀的专业人士 / Professionals with 10+ years of experience who have knowledge but haven't deposited it
@@ -39,4 +52,4 @@ Difference from Memory Palace: Memory Palace is for remembering more; Knowledge 
 - 最小单元 / Unit: [知识卡 / Knowledge Card](./知识卡-knowledge-card.md)
 
 ---
-© KP-4+1 Knowledge Palace · kp-wyn · v1.0
+© KP-4+1 Knowledge Palace · kp-wyn · v1.1

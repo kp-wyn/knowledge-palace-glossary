@@ -3,7 +3,7 @@ id: KP-TERM-084
 term: 技能治理层
 en: Skill Governance Layer
 category: 技能治理 / Skill Governance
-synonyms: 技能治理 / Skill Governance，Agent 治理层 / Agent Governance Layer，技能控制面 / Skill Control Plane
+synonyms: 技能治理 / Skill Governance，Agent 治理层 / Agent Governance Layer，Agent 治理 / Agent Governance，Agent 治理架构 / Agent Governance Architecture，技能控制面 / Skill Control Plane
 attribution: 知识宫殿体系原创提出 / Original to Knowledge Palace System
 created: 2026-10-06
 updated: 2026-10-06
@@ -26,7 +26,7 @@ status: 已稳定 / Stable
 | 身份管理 | 技能是谁、归谁负责 | 在名称 / 触发词之外登记 ID、版本、所有者、创建时间 |
 | 权限控制 | 谁能用、能看什么数据、能调什么工具 | 按角色 / 部门 / 项目分配使用与数据权限 |
 | 审计追溯 | 做了什么、谁发起、经过哪些步骤 | 记录每次调用的用户、时间、输入、输出 |
-| 异常处置 | 出问题怎么发现、终止、恢复 | 监控告警、熔断停用、应急预案 |
+| 异常处置 | 出问题怎么发现、终止、恢复 | 00 监控告警、熔断停用、应急预案 |
 
 ## English
 
